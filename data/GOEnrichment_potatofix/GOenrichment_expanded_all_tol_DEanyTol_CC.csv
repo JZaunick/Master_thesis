@@ -1,0 +1,6 @@
+"GO.ID","Term","Annotated","Significant","Expected","classicFisher"
+"GO:0000124","SAGA complex",18,2,0.05,0.0012
+"GO:0019005","SCF ubiquitin ligase complex",44,2,0.13,0.0071
+"GO:1990904","ribonucleoprotein complex",509,5,1.46,0.0264
+"GO:0005840","ribosome",253,4,0.73,0.0304
+"GO:0016020","membrane",5690,17,16.37,0.0453

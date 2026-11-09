@@ -1,0 +1,17 @@
+"GO.ID","Term","Annotated","Significant","Expected","classicFisher"
+"GO:0016045","detection of bacterium",2,2,0.02,0.00012
+"GO:0042744","hydrogen peroxide catabolic process",79,6,0.88,0.00025
+"GO:0098869","cellular oxidant detoxification",124,7,1.38,0.00047
+"GO:0140426","pathogen-associated molecular pattern receptor signaling pathway",7,2,0.08,0.0025
+"GO:0009626","plant-type hypersensitive response",92,5,1.03,0.00363
+"GO:0045490","pectin catabolic process",59,4,0.66,0.00419
+"GO:0010310","regulation of hydrogen peroxide metabolic process",9,2,0.1,0.00422
+"GO:1990641","response to iron ion starvation",10,2,0.11,0.00524
+"GO:0015860","purine nucleoside transmembrane transport",11,2,0.12,0.00636
+"GO:0009862","systemic acquired resistance, salicylic acid mediated signaling pathway",15,2,0.17,0.01178
+"GO:1904823","purine nucleobase transmembrane transport",15,2,0.17,0.01178
+"GO:0009835","fruit ripening",46,3,0.51,0.01452
+"GO:0001732","formation of cytoplasmic translation initiation complex",17,2,0.19,0.01504
+"GO:0006979","response to oxidative stress",294,7,3.28,0.01635
+"GO:0016567","protein ubiquitination",429,11,4.78,0.01758
+"GO:0009805","coumarin biosynthetic process",23,2,0.26,0.02679

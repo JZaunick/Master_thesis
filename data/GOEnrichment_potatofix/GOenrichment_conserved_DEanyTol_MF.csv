@@ -1,0 +1,50 @@
+"GO.ID","Term","Annotated","Significant","Expected","classicFisher"
+"GO:0051537","2 iron, 2 sulfur cluster binding",58,46,26.8,2.4e-07
+"GO:0016168","chlorophyll binding",21,20,9.7,2.3e-06
+"GO:0003729","mRNA binding",560,308,258.78,5.5e-06
+"GO:0005524","ATP binding",2007,999,927.46,0.00028
+"GO:0003723","RNA binding",1326,711,612.76,0.00031
+"GO:0003899","DNA-directed RNA polymerase activity",42,30,19.41,0.00082
+"GO:0140662","ATP-dependent protein folding chaperone",46,32,21.26,0.00115
+"GO:0030674","protein-macromolecule adaptor activity",245,130,113.22,0.00139
+"GO:0000285","1-phosphatidylinositol-3-phosphate 5-kinase activity",8,8,3.7,0.00207
+"GO:0003746","translation elongation factor activity",37,26,17.1,0.00264
+"GO:0008379","thioredoxin peroxidase activity",7,7,3.23,0.00449
+"GO:0019888","protein phosphatase regulator activity",58,29,26.8,0.00534
+"GO:0005049","nuclear export signal receptor activity",10,9,4.62,0.0056
+"GO:0008137","NADH dehydrogenase (ubiquinone) activity",10,9,4.62,0.0056
+"GO:0005198","structural molecule activity",311,156,143.72,0.00607
+"GO:0003682","chromatin binding",165,89,76.25,0.00626
+"GO:0005515","protein binding",3889,1839,1797.16,0.00713
+"GO:0061631","ubiquitin conjugating enzyme activity",30,21,13.86,0.00726
+"GO:0000035","acyl binding",6,6,2.77,0.00973
+"GO:0031386","protein tag activity",12,10,5.55,0.00987
+"GO:0017056","structural constituent of nuclear pore",17,13,7.86,0.01124
+"GO:0004674","protein serine/threonine kinase activity",753,376,347.97,0.01191
+"GO:0008266","poly(U) RNA binding",11,9,5.08,0.01809
+"GO:0035251","UDP-glucosyltransferase activity",86,56,39.74,0.01867
+"GO:0034511","U3 snoRNA binding",5,5,2.31,0.02106
+"GO:0004340","glucokinase activity",5,5,2.31,0.02106
+"GO:0015140","malate transmembrane transporter activity",5,5,2.31,0.02106
+"GO:0004066","asparagine synthase (glutamine-hydrolyzing) activity",5,5,2.31,0.02106
+"GO:0140936","histone H2B deubiquitinase activity",5,5,2.31,0.02106
+"GO:0033743","peptide-methionine (R)-S-oxide reductase activity",5,5,2.31,0.02106
+"GO:0017116","single-stranded DNA helicase activity",14,11,6.47,0.02503
+"GO:0016887","ATP hydrolysis activity",457,232,211.19,0.02634
+"GO:0003724","RNA helicase activity",81,47,37.43,0.02714
+"GO:0000155","phosphorelay sensor kinase activity",20,14,9.24,0.02762
+"GO:0046961","proton-transporting ATPase activity, rotational mechanism",29,19,13.4,0.02852
+"GO:0005509","calcium ion binding",206,109,95.2,0.03064
+"GO:0004222","metalloendopeptidase activity",46,28,21.26,0.03227
+"GO:0004869","cysteine-type endopeptidase inhibitor activity",10,8,4.62,0.03264
+"GO:0003924","GTPase activity",160,86,73.94,0.03277
+"GO:0030234","enzyme regulator activity",413,173,190.85,0.03659
+"GO:0016251","RNA polymerase II general transcription initiation factor activity",17,12,7.86,0.03761
+"GO:0003989","acetyl-CoA carboxylase activity",7,6,3.23,0.04113
+"GO:0045182","translation regulator activity",9,7,4.16,0.04556
+"GO:0004742","dihydrolipoyllysine-residue acetyltransferase activity",4,4,1.85,0.04558
+"GO:1902417","(+)-abscisic acid D-glucopyranosyl ester transmembrane transporter activity",4,4,1.85,0.04558
+"GO:0015131","oxaloacetate transmembrane transporter activity",4,4,1.85,0.04558
+"GO:0004067","asparaginase activity",4,4,1.85,0.04558
+"GO:0008270","zinc ion binding",1220,592,563.78,0.04749
+"GO:0004386","helicase activity",176,95,81.33,0.04795

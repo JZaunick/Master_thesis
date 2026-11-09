@@ -1,0 +1,27 @@
+HOG,n_genes,n_species,n_terms,Terms,Annotation
+N0.HOG0001997,16,5,4,ribonucleoprotein complex; ribosome; structural constituent of ribosome; translation,Large ribosomal subunit protein eL43; Large ribosomal subunit protein eL43z
+N0.HOG0005841,9,5,4,ribonucleoprotein complex; ribosome; structural constituent of ribosome; translation,Large ribosomal subunit protein eL38
+N0.HOG0006236,8,5,4,ribonucleoprotein complex; ribosome; structural constituent of ribosome; translation,Large ribosomal subunit protein bL12c
+N0.HOG0006293,8,5,4,ribonucleoprotein complex; ribosome; structural constituent of ribosome; translation,Ubiquitin-like domain-containing protein; BAG family molecular chaperone regulator 2
+N0.HOG0007415,7,5,4,formation of cytoplasmic translation initiation complex; regulation of translation; ribosome; translation,Eukaryotic translation initiation factor 3 subunit H
+N0.HOG0003104,7,5,3,regulation of translation; ribonucleoprotein complex; ribosome,Small ribosomal subunit protein RACK1
+N0.HOG0005673,9,5,3,fruit ripening; pectin catabolic process; pectinesterase activity,Pectinesterase 2.2; Pectinesterase 3; Pectinesterase 1; pectinesterase
+N0.HOG0000397,11,5,2,heme binding; iron ion binding,Cytochrome P450 71AU50
+N0.HOG0002231,8,5,2,formation of cytoplasmic translation initiation complex; translation,Eukaryotic translation initiation factor 5
+N0.HOG0002237,9,5,2,heme binding; iron ion binding,Geraniol 8-hydroxylase; Cytochrome P450
+N0.HOG0003478,11,5,2,heme binding; iron ion binding,Cytochrome P450 71D7; Cytochrome P450
+N0.HOG0004496,8,5,2,heme binding; iron ion binding,Cytochrome P450 71A1; Cytochrome P450; Trimethyltridecatetraene synthase
+N0.HOG0006594,8,5,2,pectin catabolic process; pectinesterase activity,Pectinesterase QRT1; pectinesterase
+N0.HOG0000291,15,5,1,fruit ripening,UDP-glycosyltransferase 75C1
+N0.HOG0002833,9,5,1,SCF ubiquitin ligase complex,F-box domain-containing protein; F-box associated domain-containing protein; F-box protein
+N0.HOG0003220,12,5,1,fruit ripening,Xyloglucan endotransglucosylase/hydrolase 2; Xyloglucan endotransglucosylase/hydrolase protein 15
+N0.HOG0003682,11,5,1,regulation of translation,Btz domain-containing protein
+N0.HOG0006497,8,5,1,SAGA complex,Splicing factor 3B subunit 5
+N0.HOG0006546,8,5,1,SAGA complex,leucine-rich repeat extensin-like protein 3; Transcription initiation factor TFIID subunit 12 domain-containing protein
+N0.HOG0006615,8,5,1,SCF ubiquitin ligase complex,F-box/kelch-repeat protein At3g61590
+N0.HOG0006681,8,5,1,cytokinin-activated signaling pathway,Two-component response regulator ARR9
+N0.HOG0006736,8,5,1,cytokinin-activated signaling pathway,protein SOB FIVE-LIKE 5-like; protein SOB FIVE-LIKE 5
+N0.HOG0006986,7,5,1,translation,Glutamyl-tRNA(Gln) amidotransferase subunit A
+N0.HOG0007622,7,5,1,regulation of translation,DNA/RNA-binding protein Alba-like domain-containing protein
+N0.HOG0007720,7,5,1,protein phosphatase inhibitor activity,lachrymatory-factor synthase-like; Lachrymatory-factor synthase
+N0.HOG0007731,7,5,1,protein phosphatase inhibitor activity,cAMP-regulated phosphoprotein 19-related protein; cAMP-regulated phosphoprotein 19

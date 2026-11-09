@@ -1,0 +1,598 @@
+"subset","ontology","GO.ID","Term","Annotated","Significant","Expected","classicFisher"
+"conserved_DEany","BP","GO:0071456","cellular response to hypoxia",83,72,55.48,6.5e-05
+"conserved_DEany","BP","GO:0015979","photosynthesis",196,181,131,9.8e-05
+"conserved_DEany","BP","GO:0009451","RNA modification",365,260,243.96,0.00039
+"conserved_DEany","BP","GO:0009658","chloroplast organization",187,143,124.99,0.00053
+"conserved_DEany","BP","GO:0007623","circadian rhythm",110,92,73.52,0.00063
+"conserved_DEany","BP","GO:0015995","chlorophyll biosynthetic process",50,46,33.42,0.00168
+"conserved_DEany","BP","GO:0009768","photosynthesis, light harvesting in photosystem I",15,15,10.03,0.00236
+"conserved_DEany","BP","GO:0048564","photosystem I assembly",20,19,13.37,0.00344
+"conserved_DEany","BP","GO:0009773","photosynthetic electron transport in photosystem I",14,14,9.36,0.00354
+"conserved_DEany","BP","GO:0070588","calcium ion transmembrane transport",61,48,40.77,0.0042
+"conserved_DEany","BP","GO:0043622","cortical microtubule organization",29,26,19.38,0.0047
+"conserved_DEany","BP","GO:0006886","intracellular protein transport",288,219,192.5,0.00493
+"conserved_DEany","BP","GO:0045037","protein import into chloroplast stroma",27,23,18.05,0.00509
+"conserved_DEany","BP","GO:0009767","photosynthetic electron transport chain",32,32,21.39,0.00525
+"conserved_DEany","BP","GO:0006606","protein import into nucleus",42,31,28.07,0.00555
+"conserved_DEany","BP","GO:0034599","cellular response to oxidative stress",72,58,48.12,0.00641
+"conserved_DEany","BP","GO:0019253","reductive pentose-phosphate cycle",15,15,10.03,0.00792
+"conserved_DEany","BP","GO:0045036","protein targeting to chloroplast",11,11,7.35,0.01187
+"conserved_DEany","BP","GO:0000462","maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",27,25,18.05,0.01325
+"conserved_DEany","BP","GO:0006397","mRNA processing",361,261,241.29,0.0142
+"conserved_DEany","BP","GO:0022900","electron transport chain",75,67,50.13,0.01748
+"conserved_DEany","BP","GO:0042793","plastid transcription",15,14,10.03,0.01775
+"conserved_DEany","BP","GO:0035194","regulatory ncRNA-mediated post-transcriptional gene silencing",26,20,17.38,0.01778
+"conserved_DEany","BP","GO:0010207","photosystem II assembly",22,20,14.7,0.01818
+"conserved_DEany","BP","GO:0000184","nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",26,23,17.38,0.02062
+"conserved_DEany","BP","GO:0000165","MAPK cascade",52,42,34.76,0.02145
+"conserved_DEany","BP","GO:0045927","positive regulation of growth",39,31,26.07,0.02478
+"conserved_DEany","BP","GO:0033962","P-body assembly",10,10,6.68,0.02658
+"conserved_DEany","BP","GO:0006782","protoporphyrinogen IX biosynthetic process",9,9,6.02,0.02659
+"conserved_DEany","BP","GO:0006865","amino acid transport",69,49,46.12,0.02659
+"conserved_DEany","BP","GO:1900424","regulation of defense response to bacterium",51,35,34.09,0.02665
+"conserved_DEany","BP","GO:0006970","response to osmotic stress",329,227,219.9,0.02669
+"conserved_DEany","BP","GO:0006874","intracellular calcium ion homeostasis",35,29,23.39,0.02808
+"conserved_DEany","BP","GO:0009638","phototropism",14,13,9.36,0.02816
+"conserved_DEany","BP","GO:0016114","terpenoid biosynthetic process",124,84,82.88,0.02825
+"conserved_DEany","BP","GO:0000278","mitotic cell cycle",216,150,144.37,0.02847
+"conserved_DEany","BP","GO:0010029","regulation of seed germination",53,40,35.42,0.0286
+"conserved_DEany","BP","GO:1902600","proton transmembrane transport",123,91,82.21,0.02937
+"conserved_DEany","BP","GO:0010218","response to far red light",22,20,14.7,0.03358
+"conserved_DEany","BP","GO:0005983","starch catabolic process",18,16,12.03,0.03364
+"conserved_DEany","BP","GO:0009749","response to glucose",28,22,18.71,0.03628
+"conserved_DEany","BP","GO:0009742","brassinosteroid mediated signaling pathway",63,49,42.11,0.03858
+"conserved_DEany","BP","GO:0006096","glycolytic process",60,45,40.1,0.03877
+"conserved_DEany","BP","GO:0016556","mRNA modification",35,29,23.39,0.0394
+"conserved_DEany","BP","GO:1902066","regulation of cell wall pectin metabolic process",13,12,8.69,0.03951
+"conserved_DEany","BP","GO:0010214","seed coat development",27,20,18.05,0.03958
+"conserved_DEany","BP","GO:0071470","cellular response to osmotic stress",26,21,17.38,0.03975
+"conserved_DEany","BP","GO:0015976","carbon utilization",13,12,8.69,0.03976
+"conserved_DEany","BP","GO:0048255","mRNA stabilization",9,9,6.02,0.03978
+"conserved_DEany","BP","GO:0051510","regulation of unidimensional cell growth",51,32,34.09,0.03978
+"conserved_DEany","BP","GO:0009249","protein lipoylation",8,8,5.35,0.03979
+"conserved_DEany","BP","GO:0072318","clathrin coat disassembly",8,8,5.35,0.03979
+"conserved_DEany","BP","GO:0140547","acquisition of seed longevity",8,8,5.35,0.03979
+"conserved_DEany","BP","GO:1901001","negative regulation of response to salt stress",8,8,5.35,0.03979
+"conserved_DEany","BP","GO:1902326","positive regulation of chlorophyll biosynthetic process",8,8,5.35,0.03979
+"conserved_DEany","BP","GO:0051231","spindle elongation",8,8,5.35,0.03979
+"conserved_DEany","BP","GO:0009088","threonine biosynthetic process",8,8,5.35,0.03979
+"conserved_DEany","BP","GO:0009611","response to wounding",130,92,86.89,0.04123
+"conserved_DEany","BP","GO:0009414","response to water deprivation",247,177,165.09,0.04178
+"conserved_DEany","BP","GO:0000160","phosphorelay signal transduction system",178,120,118.97,0.04352
+"conserved_DEany","BP","GO:0009741","response to brassinosteroid",89,70,59.49,0.04726
+"conserved_DEany","BP","GO:0050821","protein stabilization",25,21,16.71,0.04777
+"conserved_DEany","BP","GO:0016226","iron-sulfur cluster assembly",30,24,20.05,0.0478
+"conserved_DEany","CC","GO:0009570","chloroplast stroma",385,325,258.19,5.3e-14
+"conserved_DEany","CC","GO:0009535","chloroplast thylakoid membrane",262,230,175.7,5.4e-14
+"conserved_DEany","CC","GO:0009507","chloroplast",1628,1305,1091.78,8.6e-11
+"conserved_DEany","CC","GO:0005739","mitochondrion",1172,850,785.98,3.6e-06
+"conserved_DEany","CC","GO:0009941","chloroplast envelope",360,290,241.43,5.2e-06
+"conserved_DEany","CC","GO:0009523","photosystem II",49,48,32.86,9e-06
+"conserved_DEany","CC","GO:0031969","chloroplast membrane",238,187,159.61,1.2e-05
+"conserved_DEany","CC","GO:0042644","chloroplast nucleoid",40,38,26.83,2.3e-05
+"conserved_DEany","CC","GO:0009522","photosystem I",29,29,19.45,5e-04
+"conserved_DEany","CC","GO:0005686","U2 snRNP",15,15,10.06,0.0025
+"conserved_DEany","CC","GO:0005829","cytosol",1554,1085,1042.16,0.0026
+"conserved_DEany","CC","GO:0009543","chloroplast thylakoid lumen",48,41,32.19,0.0034
+"conserved_DEany","CC","GO:0009654","photosystem II oxygen evolving complex",20,19,13.41,0.0036
+"conserved_DEany","CC","GO:0005669","transcription factor TFIID complex",14,14,9.39,0.0037
+"conserved_DEany","CC","GO:0099503","secretory vesicle",58,47,38.9,0.0046
+"conserved_DEany","CC","GO:0030127","COPII vesicle coat",13,13,8.72,0.0055
+"conserved_DEany","CC","GO:0010598","NAD(P)H dehydrogenase complex (plastoquinone)",12,12,8.05,0.0083
+"conserved_DEany","CC","GO:0005737","cytoplasm",7428,5212,4981.43,0.0102
+"conserved_DEany","CC","GO:0055028","cortical microtubule",46,40,30.85,0.0115
+"conserved_DEany","CC","GO:0019898","extrinsic component of membrane",44,35,29.51,0.014
+"conserved_DEany","CC","GO:0070971","endoplasmic reticulum exit site",16,15,10.73,0.0148
+"conserved_DEany","CC","GO:0000325","plant-type vacuole",315,216,211.25,0.0163
+"conserved_DEany","CC","GO:0009536","plastid",1844,1463,1236.64,0.0169
+"conserved_DEany","CC","GO:0010319","stromule",10,10,6.71,0.0184
+"conserved_DEany","CC","GO:0005736","RNA polymerase I complex",10,10,6.71,0.0184
+"conserved_DEany","CC","GO:0034399","nuclear periphery",12,12,8.05,0.0274
+"conserved_DEany","CC","GO:1990726","Lsm1-7-Pat1 complex",9,9,6.04,0.0274
+"conserved_DEany","CC","GO:0000427","plastid-encoded plastid RNA polymerase complex",9,9,6.04,0.0274
+"conserved_DEany","CC","GO:0032040","small-subunit processome",31,26,20.79,0.0306
+"conserved_DEany","CC","GO:0010008","endosome membrane",144,104,96.57,0.0327
+"conserved_DEany","CC","GO:0005743","mitochondrial inner membrane",200,142,134.13,0.0364
+"conserved_DEany","CC","GO:0030686","90S preribosome",23,20,15.42,0.0408
+"conserved_DEany","CC","GO:0034045","phagophore assembly site membrane",8,8,5.37,0.0409
+"conserved_DEany","CC","GO:0071005","U2-type precatalytic spliceosome",8,8,5.37,0.0409
+"conserved_DEany","CC","GO:0030897","HOPS complex",8,8,5.37,0.0409
+"conserved_DEany","CC","GO:0030132","clathrin coat of coated pit",11,10,7.38,0.0409
+"conserved_DEany","CC","GO:0030130","clathrin coat of trans-Golgi network vesicle",12,10,8.05,0.0409
+"conserved_DEany","CC","GO:0009574","preprophase band",13,12,8.72,0.0409
+"conserved_DEany","CC","GO:0009501","amyloplast",24,21,16.1,0.0496
+"conserved_DEany","MF","GO:0005524","ATP binding",2007,1426,1349.5,3.8e-05
+"conserved_DEany","MF","GO:0003729","mRNA binding",560,416,376.54,0.00011
+"conserved_DEany","MF","GO:0016168","chlorophyll binding",21,21,14.12,0.00024
+"conserved_DEany","MF","GO:0051537","2 iron, 2 sulfur cluster binding",58,51,39,0.00026
+"conserved_DEany","MF","GO:0005509","calcium ion binding",206,160,138.51,0.00061
+"conserved_DEany","MF","GO:0004674","protein serine/threonine kinase activity",753,551,506.31,7e-04
+"conserved_DEany","MF","GO:0061631","ubiquitin conjugating enzyme activity",30,27,20.17,0.00394
+"conserved_DEany","MF","GO:0106310","protein serine kinase activity",581,419,390.66,0.00547
+"conserved_DEany","MF","GO:0003723","RNA binding",1326,958,891.6,0.00572
+"conserved_DEany","MF","GO:0003899","DNA-directed RNA polymerase activity",42,36,28.24,0.00578
+"conserved_DEany","MF","GO:0004709","MAP kinase kinase kinase activity",22,20,14.79,0.01069
+"conserved_DEany","MF","GO:0019843","rRNA binding",100,76,67.24,0.01125
+"conserved_DEany","MF","GO:0030674","protein-macromolecule adaptor activity",245,167,164.74,0.01293
+"conserved_DEany","MF","GO:0008137","NADH dehydrogenase (ubiquinone) activity",10,10,6.72,0.01886
+"conserved_DEany","MF","GO:0005525","GTP binding",208,154,139.86,0.01963
+"conserved_DEany","MF","GO:0030276","clathrin binding",43,32,28.91,0.01991
+"conserved_DEany","MF","GO:0005216","monoatomic ion channel activity",114,79,76.65,0.02807
+"conserved_DEany","MF","GO:0140662","ATP-dependent protein folding chaperone",46,37,30.93,0.03573
+"conserved_DEany","MF","GO:0015038","glutathione disulfide oxidoreductase activity",12,12,8.07,0.04169
+"conserved_DEany","MF","GO:0003825","alpha,alpha-trehalose-phosphate synthase (UDP-forming) activity",8,8,5.38,0.04174
+"conserved_DEany","MF","GO:0000285","1-phosphatidylinositol-3-phosphate 5-kinase activity",8,8,5.38,0.04174
+"conserved_DEany","MF","GO:0019888","protein phosphatase regulator activity",58,38,39,0.04226
+"conserved_DEany","MF","GO:0042802","identical protein binding",307,218,206.43,0.04341
+"conserved_DEany","MF","GO:0003746","translation elongation factor activity",37,30,24.88,0.04793
+"conserved_DEany","MF","GO:0008320","protein transmembrane transporter activity",35,30,23.53,0.04851
+"conserved_DEany","MF","GO:0016251","RNA polymerase II general transcription initiation factor activity",17,15,11.43,0.04869
+"conserved_DEanyTol","BP","GO:0071456","cellular response to hypoxia",83,59,38.27,1.4e-06
+"conserved_DEanyTol","BP","GO:0009768","photosynthesis, light harvesting in photosystem I",15,15,6.92,9e-06
+"conserved_DEanyTol","BP","GO:0015979","photosynthesis",196,155,90.38,1.3e-05
+"conserved_DEanyTol","BP","GO:0006397","mRNA processing",361,205,166.46,9e-05
+"conserved_DEanyTol","BP","GO:0019253","reductive pentose-phosphate cycle",15,15,6.92,9.1e-05
+"conserved_DEanyTol","BP","GO:0007623","circadian rhythm",110,70,50.72,2e-04
+"conserved_DEanyTol","BP","GO:0015995","chlorophyll biosynthetic process",50,40,23.05,0.00024
+"conserved_DEanyTol","BP","GO:0043622","cortical microtubule organization",29,23,13.37,0.00027
+"conserved_DEanyTol","BP","GO:0006891","intra-Golgi vesicle-mediated transport",27,22,12.45,0.00036
+"conserved_DEanyTol","BP","GO:0009826","unidimensional cell growth",196,97,90.38,0.00056
+"conserved_DEanyTol","BP","GO:0009767","photosynthetic electron transport chain",32,28,14.76,0.00068
+"conserved_DEanyTol","BP","GO:0000160","phosphorelay signal transduction system",178,91,82.08,0.00084
+"conserved_DEanyTol","BP","GO:0033962","P-body assembly",10,10,4.61,0.00094
+"conserved_DEanyTol","BP","GO:0006782","protoporphyrinogen IX biosynthetic process",9,9,4.15,0.00094
+"conserved_DEanyTol","BP","GO:0006606","protein import into nucleus",42,26,19.37,0.00109
+"conserved_DEanyTol","BP","GO:0009451","RNA modification",365,190,168.3,0.00112
+"conserved_DEanyTol","BP","GO:0090110","COPII-coated vesicle cargo loading",12,11,5.53,0.00138
+"conserved_DEanyTol","BP","GO:0009249","protein lipoylation",8,8,3.69,0.00204
+"conserved_DEanyTol","BP","GO:0140547","acquisition of seed longevity",8,8,3.69,0.00204
+"conserved_DEanyTol","BP","GO:1901001","negative regulation of response to salt stress",8,8,3.69,0.00204
+"conserved_DEanyTol","BP","GO:1902326","positive regulation of chlorophyll biosynthetic process",8,8,3.69,0.00204
+"conserved_DEanyTol","BP","GO:0071470","cellular response to osmotic stress",26,13,11.99,0.00205
+"conserved_DEanyTol","BP","GO:0010207","photosystem II assembly",22,18,10.14,0.00208
+"conserved_DEanyTol","BP","GO:0050821","protein stabilization",25,19,11.53,0.00232
+"conserved_DEanyTol","BP","GO:0009773","photosynthetic electron transport in photosystem I",14,12,6.46,0.00277
+"conserved_DEanyTol","BP","GO:0006886","intracellular protein transport",288,162,132.8,0.00296
+"conserved_DEanyTol","BP","GO:0010029","regulation of seed germination",53,32,24.44,0.003
+"conserved_DEanyTol","BP","GO:1901371","regulation of leaf morphogenesis",7,7,3.23,0.00442
+"conserved_DEanyTol","BP","GO:0006120","mitochondrial electron transport, NADH to ubiquinone",7,7,3.23,0.00442
+"conserved_DEanyTol","BP","GO:0051510","regulation of unidimensional cell growth",51,22,23.52,0.00526
+"conserved_DEanyTol","BP","GO:0022900","electron transport chain",75,57,34.58,0.00536
+"conserved_DEanyTol","BP","GO:0016197","endosomal transport",72,50,33.2,0.0054
+"conserved_DEanyTol","BP","GO:1902600","proton transmembrane transport",123,71,56.71,0.00571
+"conserved_DEanyTol","BP","GO:0048364","root development",379,170,174.76,0.0059
+"conserved_DEanyTol","BP","GO:0016226","iron-sulfur cluster assembly",30,19,13.83,0.00794
+"conserved_DEanyTol","BP","GO:0048564","photosystem I assembly",20,15,9.22,0.00844
+"conserved_DEanyTol","BP","GO:0034599","cellular response to oxidative stress",72,42,33.2,0.00847
+"conserved_DEanyTol","BP","GO:0032509","endosome transport via multivesicular body sorting pathway",34,22,15.68,0.00957
+"conserved_DEanyTol","BP","GO:0009584","detection of visible light",7,7,3.23,0.00959
+"conserved_DEanyTol","BP","GO:0042549","photosystem II stabilization",6,6,2.77,0.0096
+"conserved_DEanyTol","BP","GO:0010304","PSII associated light-harvesting complex II catabolic process",6,6,2.77,0.0096
+"conserved_DEanyTol","BP","GO:0010074","maintenance of meristem identity",50,24,23.05,0.00962
+"conserved_DEanyTol","BP","GO:0045727","positive regulation of translation",20,16,9.22,0.00965
+"conserved_DEanyTol","BP","GO:0072593","reactive oxygen species metabolic process",145,59,66.86,0.00971
+"conserved_DEanyTol","BP","GO:0009793","embryo development ending in seed dormancy",233,120,107.44,0.00996
+"conserved_DEanyTol","BP","GO:1902975","mitotic DNA replication initiation",9,8,4.15,0.01083
+"conserved_DEanyTol","BP","GO:0042147","retrograde transport, endosome to Golgi",19,15,8.76,0.01097
+"conserved_DEanyTol","BP","GO:0048367","shoot system development",634,290,292.34,0.01116
+"conserved_DEanyTol","BP","GO:0007059","chromosome segregation",137,58,63.17,0.01119
+"conserved_DEanyTol","BP","GO:0046854","phosphatidylinositol phosphate biosynthetic process",37,25,17.06,0.01237
+"conserved_DEanyTol","BP","GO:0000184","nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",26,18,11.99,0.01264
+"conserved_DEanyTol","BP","GO:0009751","response to salicylic acid",101,57,46.57,0.01362
+"conserved_DEanyTol","BP","GO:0016559","peroxisome fission",14,11,6.46,0.01415
+"conserved_DEanyTol","BP","GO:0045036","protein targeting to chloroplast",11,9,5.07,0.01779
+"conserved_DEanyTol","BP","GO:0006623","protein targeting to vacuole",41,27,18.9,0.01791
+"conserved_DEanyTol","BP","GO:0060149","negative regulation of post-transcriptional gene silencing",8,7,3.69,0.02081
+"conserved_DEanyTol","BP","GO:0045943","positive regulation of transcription by RNA polymerase I",5,5,2.31,0.02082
+"conserved_DEanyTol","BP","GO:0043153","entrainment of circadian clock by photoperiod",5,5,2.31,0.02082
+"conserved_DEanyTol","BP","GO:0071423","malate transmembrane transport",5,5,2.31,0.02082
+"conserved_DEanyTol","BP","GO:0010021","amylopectin biosynthetic process",5,5,2.31,0.02082
+"conserved_DEanyTol","BP","GO:0048255","mRNA stabilization",9,8,4.15,0.0211
+"conserved_DEanyTol","BP","GO:0009088","threonine biosynthetic process",8,7,3.69,0.02112
+"conserved_DEanyTol","BP","GO:0009086","methionine biosynthetic process",18,11,8.3,0.02113
+"conserved_DEanyTol","BP","GO:0009741","response to brassinosteroid",89,50,41.04,0.02253
+"conserved_DEanyTol","BP","GO:0005983","starch catabolic process",18,13,8.3,0.02294
+"conserved_DEanyTol","BP","GO:1902066","regulation of cell wall pectin metabolic process",13,10,5.99,0.02461
+"conserved_DEanyTol","BP","GO:0008380","RNA splicing",263,150,121.27,0.02906
+"conserved_DEanyTol","BP","GO:0009749","response to glucose",28,16,12.91,0.03096
+"conserved_DEanyTol","BP","GO:0006893","Golgi to plasma membrane transport",22,14,10.14,0.03104
+"conserved_DEanyTol","BP","GO:0035194","regulatory ncRNA-mediated post-transcriptional gene silencing",26,16,11.99,0.03214
+"conserved_DEanyTol","BP","GO:0005985","sucrose metabolic process",31,20,14.29,0.03683
+"conserved_DEanyTol","BP","GO:0010928","regulation of auxin mediated signaling pathway",54,30,24.9,0.0377
+"conserved_DEanyTol","BP","GO:0000122","negative regulation of transcription by RNA polymerase II",26,17,11.99,0.03771
+"conserved_DEanyTol","BP","GO:0000209","protein polyubiquitination",54,32,24.9,0.03793
+"conserved_DEanyTol","BP","GO:0015977","carbon fixation",22,21,10.14,0.04034
+"conserved_DEanyTol","BP","GO:0010109","regulation of photosynthesis",31,24,14.29,0.04038
+"conserved_DEanyTol","BP","GO:0051156","glucose 6-phosphate metabolic process",22,15,10.14,0.04057
+"conserved_DEanyTol","BP","GO:0046654","tetrahydrofolate biosynthetic process",8,7,3.69,0.04062
+"conserved_DEanyTol","BP","GO:1900367","positive regulation of defense response to insect",7,6,3.23,0.04064
+"conserved_DEanyTol","BP","GO:0097264","self proteolysis",7,6,3.23,0.04064
+"conserved_DEanyTol","BP","GO:0010374","stomatal complex development",36,17,16.6,0.04073
+"conserved_DEanyTol","BP","GO:0055075","potassium ion homeostasis",15,12,6.92,0.042
+"conserved_DEanyTol","BP","GO:0045927","positive regulation of growth",39,26,17.98,0.04202
+"conserved_DEanyTol","BP","GO:0033617","mitochondrial cytochrome c oxidase assembly",12,9,5.53,0.04208
+"conserved_DEanyTol","BP","GO:0030388","fructose 1,6-bisphosphate metabolic process",12,9,5.53,0.04208
+"conserved_DEanyTol","BP","GO:0009736","cytokinin-activated signaling pathway",55,31,25.36,0.04265
+"conserved_DEanyTol","BP","GO:0048571","long-day photoperiodism",40,23,18.44,0.0451
+"conserved_DEanyTol","BP","GO:1902626","assembly of large subunit precursor of preribosome",4,4,1.84,0.04518
+"conserved_DEanyTol","BP","GO:0010258","NADH dehydrogenase complex (plastoquinone) assembly",4,4,1.84,0.04518
+"conserved_DEanyTol","BP","GO:1990414","replication-born double-strand break repair via sister chromatid exchange",4,4,1.84,0.04518
+"conserved_DEanyTol","BP","GO:0045053","protein retention in Golgi apparatus",4,4,1.84,0.04518
+"conserved_DEanyTol","BP","GO:1902356","oxaloacetate(2-) transmembrane transport",4,4,1.84,0.04518
+"conserved_DEanyTol","BP","GO:1902347","response to strigolactone",4,4,1.84,0.04518
+"conserved_DEanyTol","BP","GO:0006369","termination of RNA polymerase II transcription",4,4,1.84,0.04518
+"conserved_DEanyTol","BP","GO:1902418","(+)-abscisic acid D-glucopyranosyl ester transmembrane transport",4,4,1.84,0.04518
+"conserved_DEanyTol","BP","GO:0070981","L-asparagine biosynthetic process",4,4,1.84,0.04518
+"conserved_DEanyTol","BP","GO:0009090","homoserine biosynthetic process",4,4,1.84,0.04518
+"conserved_DEanyTol","BP","GO:0098755","maintenance of seed dormancy by absisic acid",4,4,1.84,0.04518
+"conserved_DEanyTol","BP","GO:0010031","circumnutation",4,4,1.84,0.04518
+"conserved_DEanyTol","BP","GO:1990918","double-strand break repair involved in meiotic recombination",4,4,1.84,0.04518
+"conserved_DEanyTol","BP","GO:0080005","photosystem stoichiometry adjustment",4,4,1.84,0.04518
+"conserved_DEanyTol","BP","GO:0034728","nucleosome organization",24,13,11.07,0.04519
+"conserved_DEanyTol","BP","GO:0006898","receptor-mediated endocytosis",51,25,23.52,0.0452
+"conserved_DEanyTol","BP","GO:0045047","protein targeting to ER",21,11,9.68,0.0452
+"conserved_DEanyTol","BP","GO:0019750","chloroplast localization",30,14,13.83,0.04524
+"conserved_DEanyTol","BP","GO:0009611","response to wounding",130,65,59.94,0.04681
+"conserved_DEanyTol","BP","GO:0000462","maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",27,19,12.45,0.04692
+"conserved_DEanyTol","BP","GO:0051592","response to calcium ion",27,18,12.45,0.047
+"conserved_DEanyTol","BP","GO:0006890","retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",34,21,15.68,0.04839
+"conserved_DEanyTol","CC","GO:0009535","chloroplast thylakoid membrane",262,186,121.11,1e-14
+"conserved_DEanyTol","CC","GO:0009570","chloroplast stroma",385,243,177.97,1.4e-11
+"conserved_DEanyTol","CC","GO:0009523","photosystem II",49,48,22.65,1.8e-10
+"conserved_DEanyTol","CC","GO:0009654","photosystem II oxygen evolving complex",20,19,9.25,4.7e-06
+"conserved_DEanyTol","CC","GO:0009507","chloroplast",1628,948,752.55,4.8e-06
+"conserved_DEanyTol","CC","GO:0009941","chloroplast envelope",360,210,166.41,9.3e-06
+"conserved_DEanyTol","CC","GO:0009522","photosystem I",29,28,13.41,9.6e-06
+"conserved_DEanyTol","CC","GO:0009543","chloroplast thylakoid lumen",48,37,22.19,1.2e-05
+"conserved_DEanyTol","CC","GO:0031969","chloroplast membrane",238,130,110.02,0.001
+"conserved_DEanyTol","CC","GO:0010598","NAD(P)H dehydrogenase complex (plastoquinone)",12,11,5.55,0.0014
+"conserved_DEanyTol","CC","GO:0005686","U2 snRNP",15,13,6.93,0.0015
+"conserved_DEanyTol","CC","GO:0071007","U2-type catalytic step 2 spliceosome",11,10,5.08,0.0028
+"conserved_DEanyTol","CC","GO:0030126","COPI vesicle coat",11,10,5.08,0.0028
+"conserved_DEanyTol","CC","GO:0005739","mitochondrion",1172,582,541.76,0.003
+"conserved_DEanyTol","CC","GO:0010008","endosome membrane",144,80,66.56,0.0033
+"conserved_DEanyTol","CC","GO:0005829","cytosol",1554,763,718.34,0.0044
+"conserved_DEanyTol","CC","GO:0009538","photosystem I reaction center",7,7,3.24,0.0045
+"conserved_DEanyTol","CC","GO:0070971","endoplasmic reticulum exit site",16,13,7.4,0.0046
+"conserved_DEanyTol","CC","GO:0032040","small-subunit processome",31,22,14.33,0.0047
+"conserved_DEanyTol","CC","GO:0010494","cytoplasmic stress granule",38,26,17.57,0.0047
+"conserved_DEanyTol","CC","GO:0030127","COPII vesicle coat",13,11,6.01,0.0053
+"conserved_DEanyTol","CC","GO:0005736","RNA polymerase I complex",10,9,4.62,0.0056
+"conserved_DEanyTol","CC","GO:0005685","U1 snRNP",18,14,8.32,0.0066
+"conserved_DEanyTol","CC","GO:0045271","respiratory chain complex I",30,21,13.87,0.0073
+"conserved_DEanyTol","CC","GO:0005840","ribosome",253,121,116.95,0.0089
+"conserved_DEanyTol","CC","GO:0005688","U6 snRNP",6,6,2.77,0.0097
+"conserved_DEanyTol","CC","GO:0016272","prefoldin complex",6,6,2.77,0.0097
+"conserved_DEanyTol","CC","GO:0120115","Lsm2-8 complex",6,6,2.77,0.0097
+"conserved_DEanyTol","CC","GO:0000347","THO complex",11,8,5.08,0.0097
+"conserved_DEanyTol","CC","GO:1990726","Lsm1-7-Pat1 complex",9,8,4.16,0.011
+"conserved_DEanyTol","CC","GO:0005832","chaperonin-containing T-complex",9,8,4.16,0.011
+"conserved_DEanyTol","CC","GO:0000785","chromatin",245,117,113.25,0.016
+"conserved_DEanyTol","CC","GO:0071004","U2-type prespliceosome",16,12,7.4,0.0191
+"conserved_DEanyTol","CC","GO:0005787","signal peptidase complex",5,5,2.31,0.0211
+"conserved_DEanyTol","CC","GO:0043680","filiform apparatus",5,5,2.31,0.0211
+"conserved_DEanyTol","CC","GO:0030132","clathrin coat of coated pit",11,9,5.08,0.0214
+"conserved_DEanyTol","CC","GO:0030130","clathrin coat of trans-Golgi network vesicle",12,9,5.55,0.0215
+"conserved_DEanyTol","CC","GO:0071005","U2-type precatalytic spliceosome",8,7,3.7,0.0215
+"conserved_DEanyTol","CC","GO:0046540","U4/U6 x U5 tri-snRNP complex",20,14,9.25,0.0277
+"conserved_DEanyTol","CC","GO:0080008","Cul4-RING E3 ubiquitin ligase complex",39,22,18.03,0.0287
+"conserved_DEanyTol","CC","GO:0005682","U5 snRNP",10,8,4.62,0.0327
+"conserved_DEanyTol","CC","GO:0017119","Golgi transport complex",10,8,4.62,0.0327
+"conserved_DEanyTol","CC","GO:0009506","plasmodesma",397,202,183.52,0.0336
+"conserved_DEanyTol","CC","GO:0016592","mediator complex",39,24,18.03,0.0393
+"conserved_DEanyTol","CC","GO:0034719","SMN-Sm protein complex",8,7,3.7,0.0412
+"conserved_DEanyTol","CC","GO:0005637","nuclear inner membrane",7,6,3.24,0.0412
+"conserved_DEanyTol","CC","GO:0055037","recycling endosome",20,8,9.25,0.0413
+"conserved_DEanyTol","CC","GO:0005938","cell cortex",103,55,47.61,0.0426
+"conserved_DEanyTol","CC","GO:0005665","RNA polymerase II, core complex",12,9,5.55,0.0428
+"conserved_DEanyTol","CC","GO:0042555","MCM complex",12,9,5.55,0.0428
+"conserved_DEanyTol","CC","GO:0005667","transcription regulator complex",119,60,55.01,0.0432
+"conserved_DEanyTol","CC","GO:1990904","ribonucleoprotein complex",509,266,235.29,0.0448
+"conserved_DEanyTol","CC","GO:0098807","chloroplast thylakoid membrane protein complex",9,9,4.16,0.0456
+"conserved_DEanyTol","CC","GO:0009897","external side of plasma membrane",4,4,1.85,0.0456
+"conserved_DEanyTol","CC","GO:0034515","proteasome storage granule",4,4,1.85,0.0456
+"conserved_DEanyTol","CC","GO:0000408","EKC/KEOPS complex",4,4,1.85,0.0456
+"conserved_DEanyTol","MF","GO:0051537","2 iron, 2 sulfur cluster binding",58,46,26.8,2.4e-07
+"conserved_DEanyTol","MF","GO:0016168","chlorophyll binding",21,20,9.7,2.3e-06
+"conserved_DEanyTol","MF","GO:0003729","mRNA binding",560,308,258.78,5.5e-06
+"conserved_DEanyTol","MF","GO:0005524","ATP binding",2007,999,927.46,0.00028
+"conserved_DEanyTol","MF","GO:0003723","RNA binding",1326,711,612.76,0.00031
+"conserved_DEanyTol","MF","GO:0003899","DNA-directed RNA polymerase activity",42,30,19.41,0.00082
+"conserved_DEanyTol","MF","GO:0140662","ATP-dependent protein folding chaperone",46,32,21.26,0.00115
+"conserved_DEanyTol","MF","GO:0030674","protein-macromolecule adaptor activity",245,130,113.22,0.00139
+"conserved_DEanyTol","MF","GO:0000285","1-phosphatidylinositol-3-phosphate 5-kinase activity",8,8,3.7,0.00207
+"conserved_DEanyTol","MF","GO:0003746","translation elongation factor activity",37,26,17.1,0.00264
+"conserved_DEanyTol","MF","GO:0008379","thioredoxin peroxidase activity",7,7,3.23,0.00449
+"conserved_DEanyTol","MF","GO:0019888","protein phosphatase regulator activity",58,29,26.8,0.00534
+"conserved_DEanyTol","MF","GO:0005049","nuclear export signal receptor activity",10,9,4.62,0.0056
+"conserved_DEanyTol","MF","GO:0008137","NADH dehydrogenase (ubiquinone) activity",10,9,4.62,0.0056
+"conserved_DEanyTol","MF","GO:0005198","structural molecule activity",311,156,143.72,0.00607
+"conserved_DEanyTol","MF","GO:0003682","chromatin binding",165,89,76.25,0.00626
+"conserved_DEanyTol","MF","GO:0005515","protein binding",3889,1839,1797.16,0.00713
+"conserved_DEanyTol","MF","GO:0061631","ubiquitin conjugating enzyme activity",30,21,13.86,0.00726
+"conserved_DEanyTol","MF","GO:0000035","acyl binding",6,6,2.77,0.00973
+"conserved_DEanyTol","MF","GO:0031386","protein tag activity",12,10,5.55,0.00987
+"conserved_DEanyTol","MF","GO:0017056","structural constituent of nuclear pore",17,13,7.86,0.01124
+"conserved_DEanyTol","MF","GO:0004674","protein serine/threonine kinase activity",753,376,347.97,0.01191
+"conserved_DEanyTol","MF","GO:0008266","poly(U) RNA binding",11,9,5.08,0.01809
+"conserved_DEanyTol","MF","GO:0035251","UDP-glucosyltransferase activity",86,56,39.74,0.01867
+"conserved_DEanyTol","MF","GO:0034511","U3 snoRNA binding",5,5,2.31,0.02106
+"conserved_DEanyTol","MF","GO:0004340","glucokinase activity",5,5,2.31,0.02106
+"conserved_DEanyTol","MF","GO:0015140","malate transmembrane transporter activity",5,5,2.31,0.02106
+"conserved_DEanyTol","MF","GO:0004066","asparagine synthase (glutamine-hydrolyzing) activity",5,5,2.31,0.02106
+"conserved_DEanyTol","MF","GO:0140936","histone H2B deubiquitinase activity",5,5,2.31,0.02106
+"conserved_DEanyTol","MF","GO:0033743","peptide-methionine (R)-S-oxide reductase activity",5,5,2.31,0.02106
+"conserved_DEanyTol","MF","GO:0017116","single-stranded DNA helicase activity",14,11,6.47,0.02503
+"conserved_DEanyTol","MF","GO:0016887","ATP hydrolysis activity",457,232,211.19,0.02634
+"conserved_DEanyTol","MF","GO:0003724","RNA helicase activity",81,47,37.43,0.02714
+"conserved_DEanyTol","MF","GO:0000155","phosphorelay sensor kinase activity",20,14,9.24,0.02762
+"conserved_DEanyTol","MF","GO:0046961","proton-transporting ATPase activity, rotational mechanism",29,19,13.4,0.02852
+"conserved_DEanyTol","MF","GO:0005509","calcium ion binding",206,109,95.2,0.03064
+"conserved_DEanyTol","MF","GO:0004222","metalloendopeptidase activity",46,28,21.26,0.03227
+"conserved_DEanyTol","MF","GO:0004869","cysteine-type endopeptidase inhibitor activity",10,8,4.62,0.03264
+"conserved_DEanyTol","MF","GO:0003924","GTPase activity",160,86,73.94,0.03277
+"conserved_DEanyTol","MF","GO:0030234","enzyme regulator activity",413,173,190.85,0.03659
+"conserved_DEanyTol","MF","GO:0016251","RNA polymerase II general transcription initiation factor activity",17,12,7.86,0.03761
+"conserved_DEanyTol","MF","GO:0003989","acetyl-CoA carboxylase activity",7,6,3.23,0.04113
+"conserved_DEanyTol","MF","GO:0045182","translation regulator activity",9,7,4.16,0.04556
+"conserved_DEanyTol","MF","GO:0004742","dihydrolipoyllysine-residue acetyltransferase activity",4,4,1.85,0.04558
+"conserved_DEanyTol","MF","GO:1902417","(+)-abscisic acid D-glucopyranosyl ester transmembrane transporter activity",4,4,1.85,0.04558
+"conserved_DEanyTol","MF","GO:0015131","oxaloacetate transmembrane transporter activity",4,4,1.85,0.04558
+"conserved_DEanyTol","MF","GO:0004067","asparaginase activity",4,4,1.85,0.04558
+"conserved_DEanyTol","MF","GO:0008270","zinc ion binding",1220,592,563.78,0.04749
+"conserved_DEanyTol","MF","GO:0004386","helicase activity",176,95,81.33,0.04795
+"conserved_DEbothTol","BP","GO:0015979","photosynthesis",196,48,16.05,2e-08
+"conserved_DEbothTol","BP","GO:0015995","chlorophyll biosynthetic process",50,13,4.09,2.3e-05
+"conserved_DEbothTol","BP","GO:1902356","oxaloacetate(2-) transmembrane transport",4,4,0.33,4.5e-05
+"conserved_DEbothTol","BP","GO:0000466","maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",18,8,1.47,6.6e-05
+"conserved_DEbothTol","BP","GO:0000462","maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",27,11,2.21,0.00015
+"conserved_DEbothTol","BP","GO:0071423","malate transmembrane transport",5,4,0.41,0.00021
+"conserved_DEbothTol","BP","GO:0000184","nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",26,8,2.13,0.00081
+"conserved_DEbothTol","BP","GO:0009738","abscisic acid-activated signaling pathway",195,30,15.96,0.00135
+"conserved_DEbothTol","BP","GO:0007623","circadian rhythm",110,23,9.01,0.00153
+"conserved_DEbothTol","BP","GO:0009451","RNA modification",365,48,29.88,0.00178
+"conserved_DEbothTol","BP","GO:0009644","response to high light intensity",38,10,3.11,0.00197
+"conserved_DEbothTol","BP","GO:0080005","photosystem stoichiometry adjustment",4,3,0.33,0.00205
+"conserved_DEbothTol","BP","GO:0006865","amino acid transport",69,11,5.65,0.004
+"conserved_DEbothTol","BP","GO:0006782","protoporphyrinogen IX biosynthetic process",9,4,0.74,0.00403
+"conserved_DEbothTol","BP","GO:0019632","shikimate metabolic process",5,3,0.41,0.00482
+"conserved_DEbothTol","BP","GO:0006364","rRNA processing",216,42,17.68,0.00492
+"conserved_DEbothTol","BP","GO:0009768","photosynthesis, light harvesting in photosystem I",15,5,1.23,0.00545
+"conserved_DEbothTol","BP","GO:0010467","gene expression",3511,330,287.43,0.00598
+"conserved_DEbothTol","BP","GO:0022900","electron transport chain",75,15,6.14,0.00615
+"conserved_DEbothTol","BP","GO:0071469","cellular response to alkaline pH",4,3,0.33,0.00669
+"conserved_DEbothTol","BP","GO:0097054","L-glutamate biosynthetic process",2,2,0.16,0.0067
+"conserved_DEbothTol","BP","GO:0090213","regulation of radial pattern formation",2,2,0.16,0.0067
+"conserved_DEbothTol","BP","GO:0019676","ammonia assimilation cycle",2,2,0.16,0.0067
+"conserved_DEbothTol","BP","GO:0016139","glycoside catabolic process",2,2,0.16,0.0067
+"conserved_DEbothTol","BP","GO:0000493","box H/ACA snoRNP assembly",2,2,0.16,0.0067
+"conserved_DEbothTol","BP","GO:0009787","regulation of abscisic acid-activated signaling pathway",85,11,6.96,0.0074
+"conserved_DEbothTol","BP","GO:2000024","regulation of leaf development",23,6,1.88,0.00891
+"conserved_DEbothTol","BP","GO:0008203","cholesterol metabolic process",6,3,0.49,0.00906
+"conserved_DEbothTol","BP","GO:0045892","negative regulation of DNA-templated transcription",143,21,11.71,0.00931
+"conserved_DEbothTol","BP","GO:0000463","maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",17,5,1.39,0.0098
+"conserved_DEbothTol","BP","GO:0010082","regulation of root meristem growth",18,5,1.47,0.01267
+"conserved_DEbothTol","BP","GO:0040029","epigenetic regulation of gene expression",144,22,11.79,0.01518
+"conserved_DEbothTol","BP","GO:0016071","mRNA metabolic process",472,45,38.64,0.01882
+"conserved_DEbothTol","BP","GO:0040034","regulation of development, heterochronic",30,6,2.46,0.01893
+"conserved_DEbothTol","BP","GO:0000578","embryonic axis specification",11,4,0.9,0.01895
+"conserved_DEbothTol","BP","GO:0010226","response to lithium ion",3,2,0.25,0.01899
+"conserved_DEbothTol","BP","GO:0080153","negative regulation of reductive pentose-phosphate cycle",3,2,0.25,0.01899
+"conserved_DEbothTol","BP","GO:0071454","cellular response to anoxia",3,2,0.25,0.01899
+"conserved_DEbothTol","BP","GO:1990961","xenobiotic detoxification by transmembrane export across the plasma membrane",3,2,0.25,0.01899
+"conserved_DEbothTol","BP","GO:0120161","regulation of cold-induced thermogenesis",3,2,0.25,0.01899
+"conserved_DEbothTol","BP","GO:0015803","branched-chain amino acid transport",3,2,0.25,0.01899
+"conserved_DEbothTol","BP","GO:0009249","protein lipoylation",8,3,0.65,0.02241
+"conserved_DEbothTol","BP","GO:0042753","positive regulation of circadian rhythm",8,3,0.65,0.02241
+"conserved_DEbothTol","BP","GO:0009909","regulation of flower development",102,13,8.35,0.02287
+"conserved_DEbothTol","BP","GO:0009773","photosynthetic electron transport in photosystem I",14,4,1.15,0.02299
+"conserved_DEbothTol","BP","GO:0032922","circadian regulation of gene expression",14,4,1.15,0.02299
+"conserved_DEbothTol","BP","GO:2000280","regulation of root development",72,10,5.89,0.02404
+"conserved_DEbothTol","BP","GO:0010228","vegetative to reproductive phase transition of meristem",150,21,12.28,0.02479
+"conserved_DEbothTol","BP","GO:0009414","response to water deprivation",247,34,20.22,0.02713
+"conserved_DEbothTol","BP","GO:0048511","rhythmic process",119,26,9.74,0.03047
+"conserved_DEbothTol","BP","GO:0006535","cysteine biosynthetic process from serine",9,3,0.74,0.0316
+"conserved_DEbothTol","BP","GO:0010206","photosystem II repair",9,3,0.74,0.0316
+"conserved_DEbothTol","BP","GO:0048255","mRNA stabilization",9,3,0.74,0.0316
+"conserved_DEbothTol","BP","GO:0010114","response to red light",38,7,3.11,0.03242
+"conserved_DEbothTol","BP","GO:0006357","regulation of transcription by RNA polymerase II",405,42,33.16,0.03292
+"conserved_DEbothTol","BP","GO:0000479","endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",10,5,0.82,0.03577
+"conserved_DEbothTol","BP","GO:0010133","L-proline catabolic process to L-glutamate",4,2,0.33,0.03593
+"conserved_DEbothTol","BP","GO:0010258","NADH dehydrogenase complex (plastoquinone) assembly",4,2,0.33,0.03593
+"conserved_DEbothTol","BP","GO:0060776","simple leaf morphogenesis",4,2,0.33,0.03593
+"conserved_DEbothTol","BP","GO:1902626","assembly of large subunit precursor of preribosome",4,2,0.33,0.03593
+"conserved_DEbothTol","BP","GO:0071461","cellular response to redox state",4,2,0.33,0.03593
+"conserved_DEbothTol","BP","GO:0140647","P450-containing electron transport chain",4,2,0.33,0.03593
+"conserved_DEbothTol","BP","GO:1902457","negative regulation of stomatal opening",4,2,0.33,0.03593
+"conserved_DEbothTol","BP","GO:0071289","cellular response to nickel ion",4,2,0.33,0.03593
+"conserved_DEbothTol","BP","GO:0141005","transposable element silencing by heterochromatin formation",4,2,0.33,0.03593
+"conserved_DEbothTol","BP","GO:0050982","detection of mechanical stimulus",4,2,0.33,0.03593
+"conserved_DEbothTol","BP","GO:0019750","chloroplast localization",30,4,2.46,0.03594
+"conserved_DEbothTol","BP","GO:0042273","ribosomal large subunit biogenesis",59,14,4.83,0.03594
+"conserved_DEbothTol","BP","GO:1902290","positive regulation of defense response to oomycetes",10,3,0.82,0.04245
+"conserved_DEbothTol","BP","GO:0016197","endosomal transport",72,8,5.89,0.04245
+"conserved_DEbothTol","BP","GO:0045454","cell redox homeostasis",33,6,2.7,0.04877
+"conserved_DEbothTol","CC","GO:0009535","chloroplast thylakoid membrane",262,54,21.25,8.8e-11
+"conserved_DEbothTol","CC","GO:0032040","small-subunit processome",31,14,2.51,3.5e-08
+"conserved_DEbothTol","CC","GO:0009538","photosystem I reaction center",7,6,0.57,1.8e-06
+"conserved_DEbothTol","CC","GO:0009523","photosystem II",49,16,3.97,8.1e-06
+"conserved_DEbothTol","CC","GO:0005730","nucleolus",287,53,23.27,9.9e-06
+"conserved_DEbothTol","CC","GO:0009507","chloroplast",1628,211,132.02,0.00015
+"conserved_DEbothTol","CC","GO:0010598","NAD(P)H dehydrogenase complex (plastoquinone)",12,6,0.97,0.00017
+"conserved_DEbothTol","CC","GO:0005654","nucleoplasm",364,41,29.52,9e-04
+"conserved_DEbothTol","CC","GO:0031969","chloroplast membrane",238,30,19.3,0.00103
+"conserved_DEbothTol","CC","GO:0034388","Pwp2p-containing subcomplex of 90S preribosome",4,3,0.32,0.002
+"conserved_DEbothTol","CC","GO:0009522","photosystem I",29,14,2.35,0.00293
+"conserved_DEbothTol","CC","GO:0009570","chloroplast stroma",385,48,31.22,0.00319
+"conserved_DEbothTol","CC","GO:0030692","Noc4p-Nop14p complex",2,2,0.16,0.00657
+"conserved_DEbothTol","CC","GO:0000444","MIS12/MIND type complex",2,2,0.16,0.00657
+"conserved_DEbothTol","CC","GO:0030687","preribosome, large subunit precursor",18,6,1.46,0.00709
+"conserved_DEbothTol","CC","GO:0005634","nucleus",4379,409,355.11,0.00877
+"conserved_DEbothTol","CC","GO:0034399","nuclear periphery",12,4,0.97,0.01255
+"conserved_DEbothTol","CC","GO:0005732","sno(s)RNA-containing ribonucleoprotein complex",12,5,0.97,0.01857
+"conserved_DEbothTol","CC","GO:0034245","mitochondrial DNA-directed RNA polymerase complex",3,2,0.24,0.01865
+"conserved_DEbothTol","CC","GO:0031676","plasma membrane-derived thylakoid membrane",3,2,0.24,0.01865
+"conserved_DEbothTol","CC","GO:0070545","PeBoW complex",3,2,0.24,0.01865
+"conserved_DEbothTol","CC","GO:0009654","photosystem II oxygen evolving complex",20,5,1.62,0.01927
+"conserved_DEbothTol","CC","GO:0080008","Cul4-RING E3 ubiquitin ligase complex",39,7,3.16,0.03524
+"conserved_DEbothTol","CC","GO:0098572","stromal side of plastid thylakoid membrane",4,2,0.32,0.0353
+"conserved_DEbothTol","CC","GO:0048188","Set1C/COMPASS complex",16,4,1.3,0.03559
+"conserved_DEbothTol","CC","GO:0030686","90S preribosome",23,12,1.87,0.04065
+"conserved_DEbothTol","CC","GO:0035267","NuA4 histone acetyltransferase complex",17,4,1.38,0.04364
+"conserved_DEbothTol","MF","GO:0015131","oxaloacetate transmembrane transporter activity",4,4,0.33,4.5e-05
+"conserved_DEbothTol","MF","GO:0051537","2 iron, 2 sulfur cluster binding",58,14,4.74,0.00018
+"conserved_DEbothTol","MF","GO:0015140","malate transmembrane transporter activity",5,4,0.41,0.00021
+"conserved_DEbothTol","MF","GO:0005509","calcium ion binding",206,32,16.85,0.00031
+"conserved_DEbothTol","MF","GO:0016168","chlorophyll binding",21,7,1.72,0.001
+"conserved_DEbothTol","MF","GO:0000049","tRNA binding",48,10,3.93,0.00478
+"conserved_DEbothTol","MF","GO:0034511","U3 snoRNA binding",5,3,0.41,0.00481
+"conserved_DEbothTol","MF","GO:0016174","NAD(P)H oxidase H2O2-forming activity",5,3,0.41,0.00481
+"conserved_DEbothTol","MF","GO:0003899","DNA-directed RNA polymerase activity",42,9,3.44,0.00601
+"conserved_DEbothTol","MF","GO:0004657","proline dehydrogenase activity",2,2,0.16,0.00669
+"conserved_DEbothTol","MF","GO:0031409","pigment binding",2,2,0.16,0.00669
+"conserved_DEbothTol","MF","GO:0033819","lipoyl(octanoyl) transferase activity",2,2,0.16,0.00669
+"conserved_DEbothTol","MF","GO:0019825","oxygen binding",2,2,0.16,0.00669
+"conserved_DEbothTol","MF","GO:0048307","ferredoxin-nitrite reductase activity",2,2,0.16,0.00669
+"conserved_DEbothTol","MF","GO:0003729","mRNA binding",560,63,45.81,0.00782
+"conserved_DEbothTol","MF","GO:0046872","metal ion binding",3025,298,247.46,0.01033
+"conserved_DEbothTol","MF","GO:0001217","DNA-binding transcription repressor activity",7,3,0.57,0.01487
+"conserved_DEbothTol","MF","GO:0004764","shikimate 3-dehydrogenase (NADP+) activity",7,3,0.57,0.01487
+"conserved_DEbothTol","MF","GO:0003855","3-dehydroquinate dehydratase activity",7,3,0.57,0.01487
+"conserved_DEbothTol","MF","GO:0003723","RNA binding",1326,146,108.48,0.0189
+"conserved_DEbothTol","MF","GO:0015658","branched-chain amino acid transmembrane transporter activity",3,2,0.25,0.01897
+"conserved_DEbothTol","MF","GO:0061513","glucose 6-phosphate:phosphate antiporter activity",3,2,0.25,0.01897
+"conserved_DEbothTol","MF","GO:0010291","beta-carotene 3-hydroxylase activity",3,2,0.25,0.01897
+"conserved_DEbothTol","MF","GO:0016851","magnesium chelatase activity",3,2,0.25,0.01897
+"conserved_DEbothTol","MF","GO:0030515","snoRNA binding",13,6,1.06,0.02222
+"conserved_DEbothTol","MF","GO:0000285","1-phosphatidylinositol-3-phosphate 5-kinase activity",8,3,0.65,0.02236
+"conserved_DEbothTol","MF","GO:0008420","RNA polymerase II CTD heptapeptide repeat phosphatase activity",8,3,0.65,0.02236
+"conserved_DEbothTol","MF","GO:0003724","RNA helicase activity",81,13,6.63,0.02856
+"conserved_DEbothTol","MF","GO:0048038","quinone binding",15,4,1.23,0.0293
+"conserved_DEbothTol","MF","GO:0004709","MAP kinase kinase kinase activity",22,5,1.8,0.02959
+"conserved_DEbothTol","MF","GO:0043546","molybdopterin cofactor binding",4,2,0.33,0.03588
+"conserved_DEbothTol","MF","GO:0051538","3 iron, 4 sulfur cluster binding",4,2,0.33,0.03588
+"conserved_DEbothTol","MF","GO:0004742","dihydrolipoyllysine-residue acetyltransferase activity",4,2,0.33,0.03588
+"conserved_DEbothTol","MF","GO:0010277","chlorophyllide a oxygenase activity",4,2,0.33,0.03588
+"conserved_DEbothTol","MF","GO:0008428","ribonuclease inhibitor activity",4,2,0.33,0.03588
+"conserved_DEbothTol","MF","GO:0042277","peptide binding",43,5,3.52,0.04244
+"conserved_DEbothTol","MF","GO:0005506","iron ion binding",231,27,18.9,0.04852
+"expanded_all_tol","BP","GO:0016567","protein ubiquitination",429,10,2.56,0.0011
+"expanded_all_tol","BP","GO:0015860","purine nucleoside transmembrane transport",11,2,0.07,0.0019
+"expanded_all_tol","BP","GO:0009626","plant-type hypersensitive response",92,4,0.55,0.0022
+"expanded_all_tol","BP","GO:1904823","purine nucleobase transmembrane transport",15,2,0.09,0.0035
+"expanded_all_tol","BP","GO:0045490","pectin catabolic process",59,3,0.35,0.0052
+"expanded_all_tol","BP","GO:0009723","response to ethylene",187,3,1.12,0.027
+"expanded_all_tol","BP","GO:0050832","defense response to fungus",231,5,1.38,0.0282
+"expanded_all_tol","BP","GO:0009835","fruit ripening",46,2,0.27,0.0308
+"expanded_all_tol","BP","GO:0009736","cytokinin-activated signaling pathway",55,2,0.33,0.0426
+"expanded_all_tol","CC","GO:0019005","SCF ubiquitin ligase complex",44,3,0.24,0.0018
+"expanded_all_tol","CC","GO:0000124","SAGA complex",18,2,0.1,0.0044
+"expanded_all_tol","CC","GO:0005576","extracellular region",842,11,4.65,0.0109
+"expanded_all_tol","CC","GO:0009505","plant-type cell wall",232,4,1.28,0.0394
+"expanded_all_tol","CC","GO:0016020","membrane",5690,34,31.45,0.0486
+"expanded_all_tol","MF","GO:0015211","purine nucleoside transmembrane transporter activity",11,2,0.06,0.0016
+"expanded_all_tol","MF","GO:0005345","purine nucleobase transmembrane transporter activity",15,2,0.08,0.0031
+"expanded_all_tol","MF","GO:0030570","pectate lyase activity",19,2,0.11,0.0049
+"expanded_all_tol","MF","GO:0003735","structural constituent of ribosome",205,5,1.14,0.0057
+"expanded_all_tol","MF","GO:0008171","O-methyltransferase activity",33,3,0.18,0.0133
+"expanded_all_tol_DEany","BP","GO:0009626","plant-type hypersensitive response",92,3,0.34,0.0049
+"expanded_all_tol_DEany","BP","GO:0016567","protein ubiquitination",429,7,1.61,0.0089
+"expanded_all_tol_DEany","BP","GO:0009835","fruit ripening",46,2,0.17,0.0128
+"expanded_all_tol_DEany","BP","GO:0009736","cytokinin-activated signaling pathway",55,2,0.21,0.018
+"expanded_all_tol_DEany","BP","GO:0006412","translation",503,6,1.88,0.0207
+"expanded_all_tol_DEany","CC","GO:0000124","SAGA complex",18,2,0.07,0.002
+"expanded_all_tol_DEany","CC","GO:0019005","SCF ubiquitin ligase complex",44,2,0.16,0.012
+"expanded_all_tol_DEany","CC","GO:0016020","membrane",5690,24,21.11,0.032
+"expanded_all_tol_DEany","CC","GO:0005802","trans-Golgi network",203,3,0.75,0.039
+"expanded_all_tol_DEany","CC","GO:0005840","ribosome",253,4,0.94,0.049
+"expanded_all_tol_DEany","MF","GO:0003735","structural constituent of ribosome",205,4,0.7,0.005
+"expanded_all_tol_DEany","MF","GO:0046982","protein heterodimerization activity",91,2,0.31,0.0381
+"expanded_all_tol_DEanyTol","BP","GO:0009835","fruit ripening",46,2,0.13,0.0076
+"expanded_all_tol_DEanyTol","BP","GO:0006412","translation",503,6,1.44,0.0079
+"expanded_all_tol_DEanyTol","BP","GO:0009736","cytokinin-activated signaling pathway",55,2,0.16,0.0108
+"expanded_all_tol_DEanyTol","BP","GO:0016567","protein ubiquitination",429,6,1.23,0.0155
+"expanded_all_tol_DEanyTol","BP","GO:0009626","plant-type hypersensitive response",92,2,0.26,0.0285
+"expanded_all_tol_DEanyTol","CC","GO:0000124","SAGA complex",18,2,0.05,0.0012
+"expanded_all_tol_DEanyTol","CC","GO:0019005","SCF ubiquitin ligase complex",44,2,0.13,0.0071
+"expanded_all_tol_DEanyTol","CC","GO:1990904","ribonucleoprotein complex",509,5,1.46,0.0264
+"expanded_all_tol_DEanyTol","CC","GO:0005840","ribosome",253,4,0.73,0.0304
+"expanded_all_tol_DEanyTol","CC","GO:0016020","membrane",5690,17,16.37,0.0453
+"expanded_all_tol_DEanyTol","MF","GO:0003735","structural constituent of ribosome",205,4,0.54,0.002
+"expanded_all_tol_DEanyTol","MF","GO:0046982","protein heterodimerization activity",91,2,0.24,0.0239
+"expanded_penn_tub","BP","GO:0016045","detection of bacterium",2,2,0.02,0.00012
+"expanded_penn_tub","BP","GO:0042744","hydrogen peroxide catabolic process",79,6,0.88,0.00025
+"expanded_penn_tub","BP","GO:0098869","cellular oxidant detoxification",124,7,1.38,0.00047
+"expanded_penn_tub","BP","GO:0140426","pathogen-associated molecular pattern receptor signaling pathway",7,2,0.08,0.0025
+"expanded_penn_tub","BP","GO:0009626","plant-type hypersensitive response",92,5,1.03,0.00363
+"expanded_penn_tub","BP","GO:0045490","pectin catabolic process",59,4,0.66,0.00419
+"expanded_penn_tub","BP","GO:0010310","regulation of hydrogen peroxide metabolic process",9,2,0.1,0.00422
+"expanded_penn_tub","BP","GO:1990641","response to iron ion starvation",10,2,0.11,0.00524
+"expanded_penn_tub","BP","GO:0015860","purine nucleoside transmembrane transport",11,2,0.12,0.00636
+"expanded_penn_tub","BP","GO:0009862","systemic acquired resistance, salicylic acid mediated signaling pathway",15,2,0.17,0.01178
+"expanded_penn_tub","BP","GO:1904823","purine nucleobase transmembrane transport",15,2,0.17,0.01178
+"expanded_penn_tub","BP","GO:0009835","fruit ripening",46,3,0.51,0.01452
+"expanded_penn_tub","BP","GO:0001732","formation of cytoplasmic translation initiation complex",17,2,0.19,0.01504
+"expanded_penn_tub","BP","GO:0006979","response to oxidative stress",294,7,3.28,0.01635
+"expanded_penn_tub","BP","GO:0016567","protein ubiquitination",429,11,4.78,0.01758
+"expanded_penn_tub","BP","GO:0009805","coumarin biosynthetic process",23,2,0.26,0.02679
+"expanded_penn_tub","CC","GO:0005576","extracellular region",842,25,9.05,8.5e-06
+"expanded_penn_tub","CC","GO:0009505","plant-type cell wall",232,10,2.49,0.00083
+"expanded_penn_tub","CC","GO:0019005","SCF ubiquitin ligase complex",44,3,0.47,0.01168
+"expanded_penn_tub","CC","GO:0000124","SAGA complex",18,2,0.19,0.01569
+"expanded_penn_tub","CC","GO:0005840","ribosome",253,9,2.72,0.02031
+"expanded_penn_tub","CC","GO:0022625","cytosolic large ribosomal subunit",76,3,0.82,0.04847
+"expanded_penn_tub","CC","GO:0000786","nucleosome",33,2,0.35,0.04879
+"expanded_penn_tub","MF","GO:0140825","lactoperoxidase activity",56,6,0.63,3.9e-05
+"expanded_penn_tub","MF","GO:0020037","heme binding",250,11,2.83,0.00013
+"expanded_penn_tub","MF","GO:0047998","hyoscyamine (6S)-dioxygenase activity",6,2,0.07,0.00185
+"expanded_penn_tub","MF","GO:0015211","purine nucleoside transmembrane transporter activity",11,2,0.12,0.00654
+"expanded_penn_tub","MF","GO:0003735","structural constituent of ribosome",205,7,2.32,0.00873
+"expanded_penn_tub","MF","GO:0046872","metal ion binding",3025,42,34.21,0.0099
+"expanded_penn_tub","MF","GO:0005345","purine nucleobase transmembrane transporter activity",15,2,0.17,0.01211
+"expanded_penn_tub","MF","GO:0030570","pectate lyase activity",19,2,0.21,0.01915
+"expanded_penn_tub","MF","GO:0016671","oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor",22,2,0.25,0.02531
+"expanded_penn_tub","MF","GO:0004864","protein phosphatase inhibitor activity",25,2,0.28,0.03216
+"expanded_penn_tub","MF","GO:0030527","structural constituent of chromatin",31,2,0.35,0.04771
+"expanded_penn_tub","MF","GO:0008171","O-methyltransferase activity",33,3,0.37,0.04993
+"expanded_penn_tub_DEany","BP","GO:0009835","fruit ripening",46,3,0.33,0.0042
+"expanded_penn_tub_DEany","BP","GO:0009862","systemic acquired resistance, salicylic acid mediated signaling pathway",15,2,0.11,0.0049
+"expanded_penn_tub_DEany","BP","GO:0001732","formation of cytoplasmic translation initiation complex",17,2,0.12,0.0063
+"expanded_penn_tub_DEany","BP","GO:0006417","regulation of translation",115,4,0.82,0.0219
+"expanded_penn_tub_DEany","BP","GO:0009626","plant-type hypersensitive response",92,3,0.65,0.0275
+"expanded_penn_tub_DEany","BP","GO:0006412","translation",503,11,3.57,0.045
+"expanded_penn_tub_DEany","CC","GO:0005576","extracellular region",842,16,6.06,3e-04
+"expanded_penn_tub_DEany","CC","GO:0005840","ribosome",253,7,1.82,0.0052
+"expanded_penn_tub_DEany","CC","GO:0000124","SAGA complex",18,2,0.13,0.0073
+"expanded_penn_tub_DEany","CC","GO:0019005","SCF ubiquitin ligase complex",44,2,0.32,0.0398
+"expanded_penn_tub_DEany","MF","GO:0020037","heme binding",250,7,1.77,0.002
+"expanded_penn_tub_DEany","MF","GO:0004864","protein phosphatase inhibitor activity",25,2,0.18,0.0134
+"expanded_penn_tub_DEany","MF","GO:0003735","structural constituent of ribosome",205,5,1.45,0.0152
+"expanded_penn_tub_DEany","MF","GO:0004185","serine-type carboxypeptidase activity",33,2,0.23,0.0228
+"expanded_penn_tub_DEany","MF","GO:0005506","iron ion binding",231,5,1.64,0.0241
+"expanded_penn_tub_DEany","MF","GO:0030599","pectinesterase activity",40,2,0.28,0.0326
+"expanded_penn_tub_DEanyTol","BP","GO:0009835","fruit ripening",46,3,0.23,0.0015
+"expanded_penn_tub_DEanyTol","BP","GO:0001732","formation of cytoplasmic translation initiation complex",17,2,0.08,0.0031
+"expanded_penn_tub_DEanyTol","BP","GO:0006417","regulation of translation",115,4,0.57,0.0082
+"expanded_penn_tub_DEanyTol","BP","GO:0006412","translation",503,10,2.48,0.0105
+"expanded_penn_tub_DEanyTol","BP","GO:0009736","cytokinin-activated signaling pathway",55,2,0.27,0.0301
+"expanded_penn_tub_DEanyTol","BP","GO:0045490","pectin catabolic process",59,2,0.29,0.0343
+"expanded_penn_tub_DEanyTol","CC","GO:0005840","ribosome",253,6,1.34,0.0017
+"expanded_penn_tub_DEanyTol","CC","GO:0000124","SAGA complex",18,2,0.1,0.004
+"expanded_penn_tub_DEanyTol","CC","GO:0019005","SCF ubiquitin ligase complex",44,2,0.23,0.0227
+"expanded_penn_tub_DEanyTol","CC","GO:1990904","ribonucleoprotein complex",509,7,2.7,0.0253
+"expanded_penn_tub_DEanyTol","MF","GO:0004864","protein phosphatase inhibitor activity",25,2,0.13,0.007
+"expanded_penn_tub_DEanyTol","MF","GO:0030599","pectinesterase activity",40,2,0.2,0.0173
+"expanded_penn_tub_DEanyTol","MF","GO:0003735","structural constituent of ribosome",205,4,1.04,0.0199
+"expanded_penn_tub_DEanyTol","MF","GO:0005506","iron ion binding",231,4,1.17,0.0293
+"expanded_penn_tub_DEanyTol","MF","GO:0020037","heme binding",250,4,1.26,0.0375
+"expanded_penn_tub_DEpennOnly","BP","GO:0006417","regulation of translation",115,3,0.3,0.0198
+"expanded_penn_tub_DEpennOnly","BP","GO:0001666","response to hypoxia",95,2,0.25,0.0304
+"expanded_penn_tub_DEpennOnly","BP","GO:0071215","cellular response to abscisic acid stimulus",208,2,0.55,0.0331
+"expanded_penn_tub_DEpennOnly","CC","GO:0000124","SAGA complex",18,2,0.05,0.0013
+"expanded_penn_tub_DEpennOnly","CC","GO:0019005","SCF ubiquitin ligase complex",44,2,0.13,0.0078
+"expanded_penn_tub_DEpennOnly","CC","GO:0005840","ribosome",253,4,0.77,0.0335
+"expanded_penn_tub_DEpennOnly","MF","GO:0004864","protein phosphatase inhibitor activity",25,2,0.07,0.0024
+"expanded_penn_tub_DEpennOnly","MF","GO:0046982","protein heterodimerization activity",91,2,0.27,0.0293
+"expanded_penn_tub_DEpennOnly","MF","GO:0005506","iron ion binding",231,3,0.68,0.0301
+"expanded_penn_tub_DEpennOnly","MF","GO:0020037","heme binding",250,3,0.74,0.0368
+"expanded_penn_tub_DEtubOnly","BP","GO:0006412","translation",503,4,0.68,0.0469

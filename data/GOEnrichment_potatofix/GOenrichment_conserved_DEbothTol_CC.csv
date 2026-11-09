@@ -1,0 +1,28 @@
+"GO.ID","Term","Annotated","Significant","Expected","classicFisher"
+"GO:0009535","chloroplast thylakoid membrane",262,54,21.25,8.8e-11
+"GO:0032040","small-subunit processome",31,14,2.51,3.5e-08
+"GO:0009538","photosystem I reaction center",7,6,0.57,1.8e-06
+"GO:0009523","photosystem II",49,16,3.97,8.1e-06
+"GO:0005730","nucleolus",287,53,23.27,9.9e-06
+"GO:0009507","chloroplast",1628,211,132.02,0.00015
+"GO:0010598","NAD(P)H dehydrogenase complex (plastoquinone)",12,6,0.97,0.00017
+"GO:0005654","nucleoplasm",364,41,29.52,9e-04
+"GO:0031969","chloroplast membrane",238,30,19.3,0.00103
+"GO:0034388","Pwp2p-containing subcomplex of 90S preribosome",4,3,0.32,0.002
+"GO:0009522","photosystem I",29,14,2.35,0.00293
+"GO:0009570","chloroplast stroma",385,48,31.22,0.00319
+"GO:0030692","Noc4p-Nop14p complex",2,2,0.16,0.00657
+"GO:0000444","MIS12/MIND type complex",2,2,0.16,0.00657
+"GO:0030687","preribosome, large subunit precursor",18,6,1.46,0.00709
+"GO:0005634","nucleus",4379,409,355.11,0.00877
+"GO:0034399","nuclear periphery",12,4,0.97,0.01255
+"GO:0005732","sno(s)RNA-containing ribonucleoprotein complex",12,5,0.97,0.01857
+"GO:0034245","mitochondrial DNA-directed RNA polymerase complex",3,2,0.24,0.01865
+"GO:0031676","plasma membrane-derived thylakoid membrane",3,2,0.24,0.01865
+"GO:0070545","PeBoW complex",3,2,0.24,0.01865
+"GO:0009654","photosystem II oxygen evolving complex",20,5,1.62,0.01927
+"GO:0080008","Cul4-RING E3 ubiquitin ligase complex",39,7,3.16,0.03524
+"GO:0098572","stromal side of plastid thylakoid membrane",4,2,0.32,0.0353
+"GO:0048188","Set1C/COMPASS complex",16,4,1.3,0.03559
+"GO:0030686","90S preribosome",23,12,1.87,0.04065
+"GO:0035267","NuA4 histone acetyltransferase complex",17,4,1.38,0.04364

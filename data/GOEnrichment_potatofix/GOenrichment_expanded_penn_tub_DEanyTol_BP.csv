@@ -1,0 +1,7 @@
+"GO.ID","Term","Annotated","Significant","Expected","classicFisher"
+"GO:0009835","fruit ripening",46,3,0.23,0.0015
+"GO:0001732","formation of cytoplasmic translation initiation complex",17,2,0.08,0.0031
+"GO:0006417","regulation of translation",115,4,0.57,0.0082
+"GO:0006412","translation",503,10,2.48,0.0105
+"GO:0009736","cytokinin-activated signaling pathway",55,2,0.27,0.0301
+"GO:0045490","pectin catabolic process",59,2,0.29,0.0343

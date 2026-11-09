@@ -1,0 +1,5 @@
+"GO.ID","Term","Annotated","Significant","Expected","classicFisher"
+"GO:0005576","extracellular region",842,16,6.06,3e-04
+"GO:0005840","ribosome",253,7,1.82,0.0052
+"GO:0000124","SAGA complex",18,2,0.13,0.0073
+"GO:0019005","SCF ubiquitin ligase complex",44,2,0.32,0.0398

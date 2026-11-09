@@ -1,0 +1,72 @@
+"GO.ID","Term","Annotated","Significant","Expected","classicFisher"
+"GO:0015979","photosynthesis",196,48,16.05,2e-08
+"GO:0015995","chlorophyll biosynthetic process",50,13,4.09,2.3e-05
+"GO:1902356","oxaloacetate(2-) transmembrane transport",4,4,0.33,4.5e-05
+"GO:0000466","maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",18,8,1.47,6.6e-05
+"GO:0000462","maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",27,11,2.21,0.00015
+"GO:0071423","malate transmembrane transport",5,4,0.41,0.00021
+"GO:0000184","nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",26,8,2.13,0.00081
+"GO:0009738","abscisic acid-activated signaling pathway",195,30,15.96,0.00135
+"GO:0007623","circadian rhythm",110,23,9.01,0.00153
+"GO:0009451","RNA modification",365,48,29.88,0.00178
+"GO:0009644","response to high light intensity",38,10,3.11,0.00197
+"GO:0080005","photosystem stoichiometry adjustment",4,3,0.33,0.00205
+"GO:0006865","amino acid transport",69,11,5.65,0.004
+"GO:0006782","protoporphyrinogen IX biosynthetic process",9,4,0.74,0.00403
+"GO:0019632","shikimate metabolic process",5,3,0.41,0.00482
+"GO:0006364","rRNA processing",216,42,17.68,0.00492
+"GO:0009768","photosynthesis, light harvesting in photosystem I",15,5,1.23,0.00545
+"GO:0010467","gene expression",3511,330,287.43,0.00598
+"GO:0022900","electron transport chain",75,15,6.14,0.00615
+"GO:0071469","cellular response to alkaline pH",4,3,0.33,0.00669
+"GO:0097054","L-glutamate biosynthetic process",2,2,0.16,0.0067
+"GO:0090213","regulation of radial pattern formation",2,2,0.16,0.0067
+"GO:0019676","ammonia assimilation cycle",2,2,0.16,0.0067
+"GO:0016139","glycoside catabolic process",2,2,0.16,0.0067
+"GO:0000493","box H/ACA snoRNP assembly",2,2,0.16,0.0067
+"GO:0009787","regulation of abscisic acid-activated signaling pathway",85,11,6.96,0.0074
+"GO:2000024","regulation of leaf development",23,6,1.88,0.00891
+"GO:0008203","cholesterol metabolic process",6,3,0.49,0.00906
+"GO:0045892","negative regulation of DNA-templated transcription",143,21,11.71,0.00931
+"GO:0000463","maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",17,5,1.39,0.0098
+"GO:0010082","regulation of root meristem growth",18,5,1.47,0.01267
+"GO:0040029","epigenetic regulation of gene expression",144,22,11.79,0.01518
+"GO:0016071","mRNA metabolic process",472,45,38.64,0.01882
+"GO:0040034","regulation of development, heterochronic",30,6,2.46,0.01893
+"GO:0000578","embryonic axis specification",11,4,0.9,0.01895
+"GO:0010226","response to lithium ion",3,2,0.25,0.01899
+"GO:0080153","negative regulation of reductive pentose-phosphate cycle",3,2,0.25,0.01899
+"GO:0071454","cellular response to anoxia",3,2,0.25,0.01899
+"GO:1990961","xenobiotic detoxification by transmembrane export across the plasma membrane",3,2,0.25,0.01899
+"GO:0120161","regulation of cold-induced thermogenesis",3,2,0.25,0.01899
+"GO:0015803","branched-chain amino acid transport",3,2,0.25,0.01899
+"GO:0009249","protein lipoylation",8,3,0.65,0.02241
+"GO:0042753","positive regulation of circadian rhythm",8,3,0.65,0.02241
+"GO:0009909","regulation of flower development",102,13,8.35,0.02287
+"GO:0009773","photosynthetic electron transport in photosystem I",14,4,1.15,0.02299
+"GO:0032922","circadian regulation of gene expression",14,4,1.15,0.02299
+"GO:2000280","regulation of root development",72,10,5.89,0.02404
+"GO:0010228","vegetative to reproductive phase transition of meristem",150,21,12.28,0.02479
+"GO:0009414","response to water deprivation",247,34,20.22,0.02713
+"GO:0048511","rhythmic process",119,26,9.74,0.03047
+"GO:0006535","cysteine biosynthetic process from serine",9,3,0.74,0.0316
+"GO:0010206","photosystem II repair",9,3,0.74,0.0316
+"GO:0048255","mRNA stabilization",9,3,0.74,0.0316
+"GO:0010114","response to red light",38,7,3.11,0.03242
+"GO:0006357","regulation of transcription by RNA polymerase II",405,42,33.16,0.03292
+"GO:0000479","endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",10,5,0.82,0.03577
+"GO:0010133","L-proline catabolic process to L-glutamate",4,2,0.33,0.03593
+"GO:0010258","NADH dehydrogenase complex (plastoquinone) assembly",4,2,0.33,0.03593
+"GO:0060776","simple leaf morphogenesis",4,2,0.33,0.03593
+"GO:1902626","assembly of large subunit precursor of preribosome",4,2,0.33,0.03593
+"GO:0071461","cellular response to redox state",4,2,0.33,0.03593
+"GO:0140647","P450-containing electron transport chain",4,2,0.33,0.03593
+"GO:1902457","negative regulation of stomatal opening",4,2,0.33,0.03593
+"GO:0071289","cellular response to nickel ion",4,2,0.33,0.03593
+"GO:0141005","transposable element silencing by heterochromatin formation",4,2,0.33,0.03593
+"GO:0050982","detection of mechanical stimulus",4,2,0.33,0.03593
+"GO:0019750","chloroplast localization",30,4,2.46,0.03594
+"GO:0042273","ribosomal large subunit biogenesis",59,14,4.83,0.03594
+"GO:1902290","positive regulation of defense response to oomycetes",10,3,0.82,0.04245
+"GO:0016197","endosomal transport",72,8,5.89,0.04245
+"GO:0045454","cell redox homeostasis",33,6,2.7,0.04877

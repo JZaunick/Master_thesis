@@ -1,0 +1,13 @@
+"subset","n_total","n_in_bg","n_tested"
+"expanded_penn_tub",164,164,164
+"expanded_penn_tub_DEanyTol",76,76,76
+"expanded_penn_tub_DEany",104,104,104
+"expanded_penn_tub_DEbothTol",15,15,15
+"expanded_penn_tub_DEpennOnly",43,43,43
+"expanded_penn_tub_DEtubOnly",18,18,18
+"expanded_all_tol",84,84,84
+"expanded_all_tol_DEanyTol",41,41,41
+"expanded_all_tol_DEany",52,52,52
+"conserved_DEanyTol",9316,6920,6915
+"conserved_DEbothTol",1547,1249,1249
+"conserved_DEany",13804,10049,10039

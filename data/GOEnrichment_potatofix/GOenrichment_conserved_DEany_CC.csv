@@ -1,0 +1,40 @@
+"GO.ID","Term","Annotated","Significant","Expected","classicFisher"
+"GO:0009570","chloroplast stroma",385,325,258.19,5.3e-14
+"GO:0009535","chloroplast thylakoid membrane",262,230,175.7,5.4e-14
+"GO:0009507","chloroplast",1628,1305,1091.78,8.6e-11
+"GO:0005739","mitochondrion",1172,850,785.98,3.6e-06
+"GO:0009941","chloroplast envelope",360,290,241.43,5.2e-06
+"GO:0009523","photosystem II",49,48,32.86,9e-06
+"GO:0031969","chloroplast membrane",238,187,159.61,1.2e-05
+"GO:0042644","chloroplast nucleoid",40,38,26.83,2.3e-05
+"GO:0009522","photosystem I",29,29,19.45,5e-04
+"GO:0005686","U2 snRNP",15,15,10.06,0.0025
+"GO:0005829","cytosol",1554,1085,1042.16,0.0026
+"GO:0009543","chloroplast thylakoid lumen",48,41,32.19,0.0034
+"GO:0009654","photosystem II oxygen evolving complex",20,19,13.41,0.0036
+"GO:0005669","transcription factor TFIID complex",14,14,9.39,0.0037
+"GO:0099503","secretory vesicle",58,47,38.9,0.0046
+"GO:0030127","COPII vesicle coat",13,13,8.72,0.0055
+"GO:0010598","NAD(P)H dehydrogenase complex (plastoquinone)",12,12,8.05,0.0083
+"GO:0005737","cytoplasm",7428,5212,4981.43,0.0102
+"GO:0055028","cortical microtubule",46,40,30.85,0.0115
+"GO:0019898","extrinsic component of membrane",44,35,29.51,0.014
+"GO:0070971","endoplasmic reticulum exit site",16,15,10.73,0.0148
+"GO:0000325","plant-type vacuole",315,216,211.25,0.0163
+"GO:0009536","plastid",1844,1463,1236.64,0.0169
+"GO:0010319","stromule",10,10,6.71,0.0184
+"GO:0005736","RNA polymerase I complex",10,10,6.71,0.0184
+"GO:0034399","nuclear periphery",12,12,8.05,0.0274
+"GO:1990726","Lsm1-7-Pat1 complex",9,9,6.04,0.0274
+"GO:0000427","plastid-encoded plastid RNA polymerase complex",9,9,6.04,0.0274
+"GO:0032040","small-subunit processome",31,26,20.79,0.0306
+"GO:0010008","endosome membrane",144,104,96.57,0.0327
+"GO:0005743","mitochondrial inner membrane",200,142,134.13,0.0364
+"GO:0030686","90S preribosome",23,20,15.42,0.0408
+"GO:0034045","phagophore assembly site membrane",8,8,5.37,0.0409
+"GO:0071005","U2-type precatalytic spliceosome",8,8,5.37,0.0409
+"GO:0030897","HOPS complex",8,8,5.37,0.0409
+"GO:0030132","clathrin coat of coated pit",11,10,7.38,0.0409
+"GO:0030130","clathrin coat of trans-Golgi network vesicle",12,10,8.05,0.0409
+"GO:0009574","preprophase band",13,12,8.72,0.0409
+"GO:0009501","amyloplast",24,21,16.1,0.0496

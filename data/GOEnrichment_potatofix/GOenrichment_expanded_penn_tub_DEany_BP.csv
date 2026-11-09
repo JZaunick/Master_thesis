@@ -1,0 +1,7 @@
+"GO.ID","Term","Annotated","Significant","Expected","classicFisher"
+"GO:0009835","fruit ripening",46,3,0.33,0.0042
+"GO:0009862","systemic acquired resistance, salicylic acid mediated signaling pathway",15,2,0.11,0.0049
+"GO:0001732","formation of cytoplasmic translation initiation complex",17,2,0.12,0.0063
+"GO:0006417","regulation of translation",115,4,0.82,0.0219
+"GO:0009626","plant-type hypersensitive response",92,3,0.65,0.0275
+"GO:0006412","translation",503,11,3.57,0.045

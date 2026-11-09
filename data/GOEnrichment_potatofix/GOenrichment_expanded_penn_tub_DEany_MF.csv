@@ -1,0 +1,7 @@
+"GO.ID","Term","Annotated","Significant","Expected","classicFisher"
+"GO:0020037","heme binding",250,7,1.77,0.002
+"GO:0004864","protein phosphatase inhibitor activity",25,2,0.18,0.0134
+"GO:0003735","structural constituent of ribosome",205,5,1.45,0.0152
+"GO:0004185","serine-type carboxypeptidase activity",33,2,0.23,0.0228
+"GO:0005506","iron ion binding",231,5,1.64,0.0241
+"GO:0030599","pectinesterase activity",40,2,0.28,0.0326

@@ -1,0 +1,27 @@
+"GO.ID","Term","Annotated","Significant","Expected","classicFisher"
+"GO:0005524","ATP binding",2007,1426,1349.5,3.8e-05
+"GO:0003729","mRNA binding",560,416,376.54,0.00011
+"GO:0016168","chlorophyll binding",21,21,14.12,0.00024
+"GO:0051537","2 iron, 2 sulfur cluster binding",58,51,39,0.00026
+"GO:0005509","calcium ion binding",206,160,138.51,0.00061
+"GO:0004674","protein serine/threonine kinase activity",753,551,506.31,7e-04
+"GO:0061631","ubiquitin conjugating enzyme activity",30,27,20.17,0.00394
+"GO:0106310","protein serine kinase activity",581,419,390.66,0.00547
+"GO:0003723","RNA binding",1326,958,891.6,0.00572
+"GO:0003899","DNA-directed RNA polymerase activity",42,36,28.24,0.00578
+"GO:0004709","MAP kinase kinase kinase activity",22,20,14.79,0.01069
+"GO:0019843","rRNA binding",100,76,67.24,0.01125
+"GO:0030674","protein-macromolecule adaptor activity",245,167,164.74,0.01293
+"GO:0008137","NADH dehydrogenase (ubiquinone) activity",10,10,6.72,0.01886
+"GO:0005525","GTP binding",208,154,139.86,0.01963
+"GO:0030276","clathrin binding",43,32,28.91,0.01991
+"GO:0005216","monoatomic ion channel activity",114,79,76.65,0.02807
+"GO:0140662","ATP-dependent protein folding chaperone",46,37,30.93,0.03573
+"GO:0015038","glutathione disulfide oxidoreductase activity",12,12,8.07,0.04169
+"GO:0003825","alpha,alpha-trehalose-phosphate synthase (UDP-forming) activity",8,8,5.38,0.04174
+"GO:0000285","1-phosphatidylinositol-3-phosphate 5-kinase activity",8,8,5.38,0.04174
+"GO:0019888","protein phosphatase regulator activity",58,38,39,0.04226
+"GO:0042802","identical protein binding",307,218,206.43,0.04341
+"GO:0003746","translation elongation factor activity",37,30,24.88,0.04793
+"GO:0008320","protein transmembrane transporter activity",35,30,23.53,0.04851
+"GO:0016251","RNA polymerase II general transcription initiation factor activity",17,15,11.43,0.04869

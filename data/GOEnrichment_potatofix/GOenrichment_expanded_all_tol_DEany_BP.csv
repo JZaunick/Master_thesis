@@ -1,0 +1,6 @@
+"GO.ID","Term","Annotated","Significant","Expected","classicFisher"
+"GO:0009626","plant-type hypersensitive response",92,3,0.34,0.0049
+"GO:0016567","protein ubiquitination",429,7,1.61,0.0089
+"GO:0009835","fruit ripening",46,2,0.17,0.0128
+"GO:0009736","cytokinin-activated signaling pathway",55,2,0.21,0.018
+"GO:0006412","translation",503,6,1.88,0.0207

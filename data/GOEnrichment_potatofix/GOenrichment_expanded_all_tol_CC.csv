@@ -1,0 +1,6 @@
+"GO.ID","Term","Annotated","Significant","Expected","classicFisher"
+"GO:0019005","SCF ubiquitin ligase complex",44,3,0.24,0.0018
+"GO:0000124","SAGA complex",18,2,0.1,0.0044
+"GO:0005576","extracellular region",842,11,4.65,0.0109
+"GO:0009505","plant-type cell wall",232,4,1.28,0.0394
+"GO:0016020","membrane",5690,34,31.45,0.0486

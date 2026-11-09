@@ -1,0 +1,13 @@
+"species","category","n_expanded","n_expanded_tot","pct_expanded","n_background","n_bg_tot","pct_background","p"
+"Capsicum_annuum","down",28,60,46.7,2869,6082,47.2,0.582
+"Capsicum_annuum","up",32,60,53.3,3167,6082,52.1,0.474
+"Capsicum_annuum","up_and_down",0,60,0,46,6082,0.8,1
+"Solanum_lycopersicum","down",10,21,47.6,958,1854,51.7,0.724
+"Solanum_lycopersicum","up",11,21,52.4,891,1854,48.1,0.428
+"Solanum_lycopersicum","up_and_down",0,21,0,5,1854,0.3,1
+"Solanum_pennellii","down",20,58,34.5,3100,5458,56.8,1
+"Solanum_pennellii","up",36,58,62.1,2340,5458,42.9,0.00239
+"Solanum_pennellii","up_and_down",2,58,3.4,18,5458,0.3,0.0152
+"Solanum_tuberosum","down",15,33,45.5,1468,2711,54.1,0.882
+"Solanum_tuberosum","up",17,33,51.5,1231,2711,45.4,0.296
+"Solanum_tuberosum","up_and_down",1,33,3,12,2711,0.4,0.137

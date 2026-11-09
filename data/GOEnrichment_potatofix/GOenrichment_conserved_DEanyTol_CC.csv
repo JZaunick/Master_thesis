@@ -1,0 +1,57 @@
+"GO.ID","Term","Annotated","Significant","Expected","classicFisher"
+"GO:0009535","chloroplast thylakoid membrane",262,186,121.11,1e-14
+"GO:0009570","chloroplast stroma",385,243,177.97,1.4e-11
+"GO:0009523","photosystem II",49,48,22.65,1.8e-10
+"GO:0009654","photosystem II oxygen evolving complex",20,19,9.25,4.7e-06
+"GO:0009507","chloroplast",1628,948,752.55,4.8e-06
+"GO:0009941","chloroplast envelope",360,210,166.41,9.3e-06
+"GO:0009522","photosystem I",29,28,13.41,9.6e-06
+"GO:0009543","chloroplast thylakoid lumen",48,37,22.19,1.2e-05
+"GO:0031969","chloroplast membrane",238,130,110.02,0.001
+"GO:0010598","NAD(P)H dehydrogenase complex (plastoquinone)",12,11,5.55,0.0014
+"GO:0005686","U2 snRNP",15,13,6.93,0.0015
+"GO:0071007","U2-type catalytic step 2 spliceosome",11,10,5.08,0.0028
+"GO:0030126","COPI vesicle coat",11,10,5.08,0.0028
+"GO:0005739","mitochondrion",1172,582,541.76,0.003
+"GO:0010008","endosome membrane",144,80,66.56,0.0033
+"GO:0005829","cytosol",1554,763,718.34,0.0044
+"GO:0009538","photosystem I reaction center",7,7,3.24,0.0045
+"GO:0070971","endoplasmic reticulum exit site",16,13,7.4,0.0046
+"GO:0032040","small-subunit processome",31,22,14.33,0.0047
+"GO:0010494","cytoplasmic stress granule",38,26,17.57,0.0047
+"GO:0030127","COPII vesicle coat",13,11,6.01,0.0053
+"GO:0005736","RNA polymerase I complex",10,9,4.62,0.0056
+"GO:0005685","U1 snRNP",18,14,8.32,0.0066
+"GO:0045271","respiratory chain complex I",30,21,13.87,0.0073
+"GO:0005840","ribosome",253,121,116.95,0.0089
+"GO:0005688","U6 snRNP",6,6,2.77,0.0097
+"GO:0016272","prefoldin complex",6,6,2.77,0.0097
+"GO:0120115","Lsm2-8 complex",6,6,2.77,0.0097
+"GO:0000347","THO complex",11,8,5.08,0.0097
+"GO:1990726","Lsm1-7-Pat1 complex",9,8,4.16,0.011
+"GO:0005832","chaperonin-containing T-complex",9,8,4.16,0.011
+"GO:0000785","chromatin",245,117,113.25,0.016
+"GO:0071004","U2-type prespliceosome",16,12,7.4,0.0191
+"GO:0005787","signal peptidase complex",5,5,2.31,0.0211
+"GO:0043680","filiform apparatus",5,5,2.31,0.0211
+"GO:0030132","clathrin coat of coated pit",11,9,5.08,0.0214
+"GO:0030130","clathrin coat of trans-Golgi network vesicle",12,9,5.55,0.0215
+"GO:0071005","U2-type precatalytic spliceosome",8,7,3.7,0.0215
+"GO:0046540","U4/U6 x U5 tri-snRNP complex",20,14,9.25,0.0277
+"GO:0080008","Cul4-RING E3 ubiquitin ligase complex",39,22,18.03,0.0287
+"GO:0005682","U5 snRNP",10,8,4.62,0.0327
+"GO:0017119","Golgi transport complex",10,8,4.62,0.0327
+"GO:0009506","plasmodesma",397,202,183.52,0.0336
+"GO:0016592","mediator complex",39,24,18.03,0.0393
+"GO:0034719","SMN-Sm protein complex",8,7,3.7,0.0412
+"GO:0005637","nuclear inner membrane",7,6,3.24,0.0412
+"GO:0055037","recycling endosome",20,8,9.25,0.0413
+"GO:0005938","cell cortex",103,55,47.61,0.0426
+"GO:0005665","RNA polymerase II, core complex",12,9,5.55,0.0428
+"GO:0042555","MCM complex",12,9,5.55,0.0428
+"GO:0005667","transcription regulator complex",119,60,55.01,0.0432
+"GO:1990904","ribonucleoprotein complex",509,266,235.29,0.0448
+"GO:0098807","chloroplast thylakoid membrane protein complex",9,9,4.16,0.0456
+"GO:0009897","external side of plasma membrane",4,4,1.85,0.0456
+"GO:0034515","proteasome storage granule",4,4,1.85,0.0456
+"GO:0000408","EKC/KEOPS complex",4,4,1.85,0.0456

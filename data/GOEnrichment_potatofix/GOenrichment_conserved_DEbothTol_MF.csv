@@ -1,0 +1,38 @@
+"GO.ID","Term","Annotated","Significant","Expected","classicFisher"
+"GO:0015131","oxaloacetate transmembrane transporter activity",4,4,0.33,4.5e-05
+"GO:0051537","2 iron, 2 sulfur cluster binding",58,14,4.74,0.00018
+"GO:0015140","malate transmembrane transporter activity",5,4,0.41,0.00021
+"GO:0005509","calcium ion binding",206,32,16.85,0.00031
+"GO:0016168","chlorophyll binding",21,7,1.72,0.001
+"GO:0000049","tRNA binding",48,10,3.93,0.00478
+"GO:0034511","U3 snoRNA binding",5,3,0.41,0.00481
+"GO:0016174","NAD(P)H oxidase H2O2-forming activity",5,3,0.41,0.00481
+"GO:0003899","DNA-directed RNA polymerase activity",42,9,3.44,0.00601
+"GO:0004657","proline dehydrogenase activity",2,2,0.16,0.00669
+"GO:0031409","pigment binding",2,2,0.16,0.00669
+"GO:0033819","lipoyl(octanoyl) transferase activity",2,2,0.16,0.00669
+"GO:0019825","oxygen binding",2,2,0.16,0.00669
+"GO:0048307","ferredoxin-nitrite reductase activity",2,2,0.16,0.00669
+"GO:0003729","mRNA binding",560,63,45.81,0.00782
+"GO:0046872","metal ion binding",3025,298,247.46,0.01033
+"GO:0001217","DNA-binding transcription repressor activity",7,3,0.57,0.01487
+"GO:0004764","shikimate 3-dehydrogenase (NADP+) activity",7,3,0.57,0.01487
+"GO:0003855","3-dehydroquinate dehydratase activity",7,3,0.57,0.01487
+"GO:0003723","RNA binding",1326,146,108.48,0.0189
+"GO:0015658","branched-chain amino acid transmembrane transporter activity",3,2,0.25,0.01897
+"GO:0061513","glucose 6-phosphate:phosphate antiporter activity",3,2,0.25,0.01897
+"GO:0010291","beta-carotene 3-hydroxylase activity",3,2,0.25,0.01897
+"GO:0016851","magnesium chelatase activity",3,2,0.25,0.01897
+"GO:0030515","snoRNA binding",13,6,1.06,0.02222
+"GO:0000285","1-phosphatidylinositol-3-phosphate 5-kinase activity",8,3,0.65,0.02236
+"GO:0008420","RNA polymerase II CTD heptapeptide repeat phosphatase activity",8,3,0.65,0.02236
+"GO:0003724","RNA helicase activity",81,13,6.63,0.02856
+"GO:0048038","quinone binding",15,4,1.23,0.0293
+"GO:0004709","MAP kinase kinase kinase activity",22,5,1.8,0.02959
+"GO:0043546","molybdopterin cofactor binding",4,2,0.33,0.03588
+"GO:0051538","3 iron, 4 sulfur cluster binding",4,2,0.33,0.03588
+"GO:0004742","dihydrolipoyllysine-residue acetyltransferase activity",4,2,0.33,0.03588
+"GO:0010277","chlorophyllide a oxygenase activity",4,2,0.33,0.03588
+"GO:0008428","ribonuclease inhibitor activity",4,2,0.33,0.03588
+"GO:0042277","peptide binding",43,5,3.52,0.04244
+"GO:0005506","iron ion binding",231,27,18.9,0.04852
