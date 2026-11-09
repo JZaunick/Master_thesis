@@ -69,17 +69,17 @@ flank $STUB_GFF "ID=Soltu.DM.10G027680.v6.1;"  data/flank_ARR_B_Stub.tsv
 flank $SPEN_GFF "ID=gene-LOC107032291;"        data/flank_ARR_B_Spen.tsv
 flank $LBAR_GFF "ID=gene-LOC132607438;"        data/flank_ARR_B_Lbar.tsv
 
-# locus L04 (chromosome 4)
+# N0.HOG0006736 -- SOB FIVE-LIKE (SOFL), Section 3.7.3; locus L04 (chromosome 4)
 flank $STUB_GFF "ID=Soltu.DM.04G032430.v6.1;"  data/flank_L04_Stub.tsv
 flank $SPEN_GFF "ID=gene-LOC107017123;"        data/flank_L04_Spen.tsv
 flank $LBAR_GFF "ID=gene-LOC132623188;"        data/flank_L04_Lbar.tsv
 flank $SLYC_GFF "ID=gene:Solyc04g077690.2;"    data/flank_L04_Slyc.tsv
 
-# N0.HOG0000291 -- SOFL, locus L12 (chromosome 12)
+# N0.HOG0006736 -- SOFL, locus L12 (chromosome 12)
 flank $STUB_GFF "ID=Soltu.DM.12G006250.v6.1;"  data/flank_L12_Stub.tsv
 flank $SPEN_GFF "ID=gene-LOC107006645;"        data/flank_L12_Spen.tsv
 flank $LBAR_GFF "ID=gene-LOC132604059;"        data/flank_L12_Lbar.tsv
 flank $CANN_GFF "ID=gene:T459_30820;"          data/flank_L12_Cann.tsv
 
-# N0.HOG0003220 -- XTH, potato copy on chromosome 7
+# N0.HOG0003220 -- XTH, Section 3.7.6; potato copy on chromosome 7
 flank $STUB_GFF "ID=Soltu.DM.07G021990.v6.1;"  data/flank_XTH_Stub7.tsv

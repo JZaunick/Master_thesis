@@ -71,7 +71,7 @@ syntenic_genes <- function(fl, locus, target_species, window = 5) {
 }
 
 # ======================================================================
-# A. SOFL family (N0.HOG0000291), copy L12 -- loci L12_Stub, L12_Spen, L12_Lbar, L12_Cann
+# A. SOB FIVE-LIKE (SOFL) family (N0.HOG0006736), chromosome 12 locus L12 -- loci L12_Stub, L12_Spen, L12_Lbar, L12_Cann
 # ======================================================================
 fl_l12 <- read_flanks("L12_") %>% mutate(locus = paste0("L12_", locus))
 
@@ -119,8 +119,8 @@ HOG_DE.a2tea %>% filter(gene %in% c("T459_26538", "Solyc10g079710.2")) %>%
   select(species, gene, HOG, baseMean, log2FoldChange, padj)
 
 # ======================================================================
-# C. Locus L04 -- loci L04_Stub, L04_Spen, L04_Lbar, L04_Slyc
-#    (same steps as for L12)
+# C. SOFL family (N0.HOG0006736), chromosome 4 locus L04 --
+#    loci L04_Stub, L04_Spen, L04_Lbar, L04_Slyc (same steps as for L12)
 # ======================================================================
 fl_l04 <- read_flanks("L04_") %>% mutate(locus = paste0("L04_", locus))
 
@@ -150,9 +150,9 @@ sort(len[ids])
 # examined candidate families
 candidate_hogs <- c("N0.HOG0001280",   # PUB22/23
                     "N0.HOG0006681",   # ARR9
-                    "N0.HOG0006736",   # PME
-                    "N0.HOG0005673",
-                    "N0.HOG0000291",   # SOFL
+                    "N0.HOG0006736",   # SOFL
+                    "N0.HOG0005673",   # PME
+                    "N0.HOG0000291",   # UGT
                     "N0.HOG0003220")   # XTH
 
 eogs <- HYPOTHESES.a2tea$hypothesis_4@expanded_OGs[candidate_hogs]
