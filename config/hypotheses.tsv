@@ -1,0 +1,12 @@
+hypothesis	1	2	3	4	5	6	7	8	9	10	11
+name	“Expanded in S.pennellii compared to tomato and capsicum”	“Expanded in potato compared to tomato and capsicum”	“Expanded in goji compared to tomato and capsicum”	“Expanded in S.pennellii and potato compared to tomato and capsicum”	“Expanded in S.pennellii and goji compared to tomato and capsicum”	“Expanded in potato and goji compared to tomato and capsicum”	“Expanded in S.pennellii, potato and goji compared to tomato and capsicum”	“Expanded in tomato compared to pennellii and potato”	“Expanded in capsicum compared to pennellii and potato”	“Expanded in tomato and capsicum compared to pennellii and potato”	“Expanded in tomato and capsicum compared to pennellii, potato and goji”
+expanded_in	Solanum_pennellii	Solanum_tuberosum	Lycium_barbarum	Solanum_pennellii;Solanum_tuberosum	Solanum_pennellii;Lycium_barbarum	Solanum_tuberosum;Lycium_barbarum	Solanum_pennellii;Solanum_tuberosum;Lycium_barbarum	Solanum_lycopersicum	Capsicum_annuum	Solanum_lycopersicum;Capsicum_annuum	Solanum_lycopersicum;Capsicum_annuum
+compared_to	Solanum_lycopersicum;Capsicum_annuum	Solanum_lycopersicum;Capsicum_annuum	Solanum_lycopersicum;Capsicum_annuum	Solanum_lycopersicum;Capsicum_annuum	Solanum_lycopersicum;Capsicum_annuum	Solanum_lycopersicum;Capsicum_annuum	Solanum_lycopersicum;Capsicum_annuum	Solanum_pennellii;Solanum_tuberosum	Solanum_pennellii;Solanum_tuberosum	Solanum_pennellii;Solanum_tuberosum	Solanum_pennellii;Solanum_tuberosum;Lycium_barbarum
+Nmin_expanded_in	1	1	1	2	2	2	3	1	1	2	2
+Nmin_compared_to	2	2	2	2	2	2	2	2	2	2	3
+min_expansion_factor	2	2	2	2	2	2	2	2	2	2	2
+min_expansion_difference	10	10	10	10	10	10	10	10	10	10	10
+Nmin_expanded_genes	2	2	2	2	2	2	2	2	2	2	2
+ploidy_normalization	YES	YES	YES	YES	YES	YES	YES	YES	YES	YES	YES
+expanded_in_all_found	YES	YES	YES	YES	YES	YES	YES	YES	YES	YES	YES
+compared_to_all_found	YES	YES	YES	YES	YES	YES	YES	YES	YES	YES	YES

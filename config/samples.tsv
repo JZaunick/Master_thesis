@@ -1,0 +1,25 @@
+species	sample	unit	condition	fq1	fq2	fragment_length_mean	fragment_length_sd
+Solanum_pennellii	LA0716	control_1	control	SRR12095347_1.fastq.gz	SRR12095347_2.fastq.gz		
+Solanum_pennellii	LA0716	control_2	control	SRR12095358_1.fastq.gz	SRR12095358_2.fastq.gz		
+Solanum_pennellii	LA0716	control_3	control	SRR12095359_1.fastq.gz	SRR12095359_2.fastq.gz		
+Solanum_pennellii	LA0716	cold_1	cold	SRR12095328_1.fastq.gz	SRR12095328_2.fastq.gz		
+Solanum_pennellii	LA0716	cold_2	cold	SRR12095329_1.fastq.gz	SRR12095329_2.fastq.gz		
+Solanum_pennellii	LA0716	cold_3	cold	SRR12095330_1.fastq.gz	SRR12095330_2.fastq.gz		
+Capsicum_annuum	CM334	control_1	control	SRR8692629_1.fastq.gz	SRR8692629_2.fastq.gz		
+Capsicum_annuum	CM334	control_2	control	SRR8692599_1.fastq.gz	SRR8692599_2.fastq.gz		
+Capsicum_annuum	CM334	control_3	control	SRR8692600_1.fastq.gz	SRR8692600_2.fastq.gz		
+Capsicum_annuum	CM334	cold_1	cold	SRR8692572_1.fastq.gz	SRR8692572_2.fastq.gz		
+Capsicum_annuum	CM334	cold_2	cold	SRR8692573_1.fastq.gz	SRR8692573_2.fastq.gz		
+Capsicum_annuum	CM334	cold_3	cold	SRR8692574_1.fastq.gz	SRR8692574_2.fastq.gz		
+Solanum_tuberosum	Favorita	control_1	control	SRR10419104_1.fastq.gz	SRR10419104_2.fastq.gz		
+Solanum_tuberosum	Favorita	control_2	control	SRR10419103_1.fastq.gz	SRR10419103_2.fastq.gz		
+Solanum_tuberosum	Favorita	control_3	control	SRR10419102_1.fastq.gz	SRR10419102_2.fastq.gz		
+Solanum_tuberosum	Favorita	cold_1	cold	SRR15216959_1.fastq.gz	SRR15216959_2.fastq.gz		
+Solanum_tuberosum	Favorita	cold_2	cold	SRR15216958_1.fastq.gz	SRR15216958_2.fastq.gz		
+Solanum_tuberosum	Favorita	cold_3	cold	SRR15216957_1.fastq.gz	SRR15216957_2.fastq.gz		
+Solanum_lycopersicum	Lyterno	control_1	control	SRR12095198_1.fastq.gz	SRR12095198_2.fastq.gz		
+Solanum_lycopersicum	Lyterno	control_2	control	SRR12095209_1.fastq.gz	SRR12095209_2.fastq.gz		
+Solanum_lycopersicum	Lyterno	control_3	control	SRR12095210_1.fastq.gz	SRR12095210_2.fastq.gz		
+Solanum_lycopersicum	Lyterno	cold_1	cold	SRR12095178_1.fastq.gz	SRR12095178_2.fastq.gz		
+Solanum_lycopersicum	Lyterno	cold_2	cold	SRR12095179_1.fastq.gz	SRR12095179_2.fastq.gz		
+Solanum_lycopersicum	Lyterno	cold_3	cold	SRR12095180_1.fastq.gz	SRR12095180_2.fastq.gz		

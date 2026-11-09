@@ -1,0 +1,105 @@
+#### define options of your individual rules here: #####
+### number of maximum threads for each run of sample during a specfifc rule: ###
+### for fastqc the thread usage is set to 4 - IMO best in most cases ###
+
+threads_fastqc: 4
+threads_kallisto_quant: 6
+threads_star_index: 8
+threads_trimmomatic: 6
+threads_star: 6
+threads_index_sorted_bams_with_dups: 4
+threads_index_sorted_bams_without_dups: 4
+threads_featureCounts: 2
+threads_expansion_calc: 2
+
+### Trimmomatic
+#not yet implemented
+trim_illuminaclip: "ILLUMINACLIP:config/primer_adapter/adapters.fa:2:30:10"
+#trim_illuminaclip: ""
+trim_options: "SLIDINGWINDOW:4:20 MINLEN:40"
+
+
+### STAR
+## default parameters change these to your specific needs
+
+##change STAR's --sjdbOverhang option; ideal value here is read_length-1
+##e.g.: 2x100b paired-end reads, the ideal value is 100-1=99; varying length? then, do this with the max length
+limitGenomeGenerateRAM: 120000000000
+read_length_star_index: 99
+
+
+## parameters when running usual pipeline ##
+## option --genomeLoad NoShared memory will load into memory the whole index on each mapping run and delete it after the mapping ##
+## with big genomes this is VERY memory intensive! e.g. the index for barley is ~ 40 Gb - so keep this in mind when setting the amount of paralelisation ##
+## for example with 24 cores specified and a 6 threads per STAR align job: 24/6 = 4; 4 x 40 Gb ~ around 160  Gb of memory required! ##
+## you can change the --genomeLoad parameter to other options e.g. keeping in memory one index for all mappings - however this can't be used in conjunction with 2-PASS mapping ##
+## also removal of the index from memory would require an additional rule or manual removal via ipcs/ipcrm after everything is finished -- might change this in the future.. ## 
+STAR: >
+    --genomeLoad NoSharedMemory
+    --outSAMtype BAM SortedByCoordinate
+    --outSAMattributes NH   HI   AS   nM   NM   MD   jM   jI   XS
+    --outSJfilterOverhangMin 30 12 12 12
+    --outFilterMultimapNmax 1
+    --outFilterScoreMin 0
+    --outFilterMatchNminOverLread 0.66
+    --outFilterMismatchNmax 10
+    --outFilterMismatchNoverLmax 0.3
+    --alignIntronMin 21
+    --alignIntronMax 0
+    --alignMatesGapMax 0
+    --alignSJoverhangMin 5
+    --alignSJDBoverhangMin 3
+    --alignSoftClipAtReferenceEnds Yes
+    --chimSegmentMin 0
+    --chimScoreMin 0
+    --chimScoreSeparation 10
+    --chimJunctionOverhangMin 20
+    --outFilterMultimapScoreRange 0
+
+
+## automatic filtering for longest isoform of fasta files
+## -> very stable for standard fasta files from e.g. Ensembl, NCBI, etc.
+## when not set to "YES", we assume you performed appropiate (or no) filtering yourself
+### if you perform the filtering yourself and want to perform gene level Diff. Exp. Analysis take care to have the fasta headers for a protein to be the simple gene identifier (no .1; .p3; etc.)
+### choosing automatic isoform filtering will create a subset peptide fasta file with only the longest isoform per gene; the header will be shortened to JUST the gene name identifier; this option MUST be used in conjunction with transcript_level_quantification: "NO"
+### this is important since for the differential expression analysis we use tximport to reduce the cdna based quantification with tximport/kallisto to gene level (featureCounts if DNA fasta supplied),
+### and association between orthology and expression analysis is the purpose of this software
+### The choice to use gene or transcript level diff. exp. analysis is controlled by transcript_level_quantification: "YES" - set it to "NO" if you want gene level analysis
+#IN ANY USE-CASE: THE NAMES BETWEEN PEP. FASTA AND EITHER GENES OR TRANSCRIPTS IN THE SPECIES SPECIFIC GTF HAS TO MATCH!!
+#### some examples: 
+##### case 1. you have standard fasta and annotation files from ensembl/NCBI; want to have one rep. protein seq. per GENE and trust the automatic process -> auto_isoform_filtering: "YES" & transcript_level_quantification: "NO"
+##### case 2. you filtered for longest isoform yourself (peptide fasta headers = gene names in respective gtf!) and are ok with the names being reduced to gene identifier -> auto_isoform_filtering: "NO" & transcript_level_quantification: "NO"
+##### case 3. you don't want to our filter & either want to use the whole or a custom subset of the transcriptome -> auto_isoform_filtering: "NO" & transcript_level_quantification: "YES"
+###### case 3 continued: this is the hands-on case in which you the USER are mostly responsible; again, both featureCounts/tximport(kallisto) will produce count tables with the transcript names as found in the gtf;
+###### case 3 continued: these transcript names have to match the headers in the peptide fasta files
+auto_isoform_filtering: "NO"
+transcript_level_quantification: "NO"
+
+
+## use chunks for blasting?
+## coreutils split - is sometimes not easy to install
+## defaulit is ON and allows faster runtime - if problems occur set to OFF
+chunks_usage: "ON"
+chunks_number: 2
+
+## options for expansion analyses
+
+# define the expansion factor, e.g. 2 -> expanded species has to have 2-times the genes for the HOG to be considered "expanded"
+# <- use this explanation somewhere more appropiate
+
+
+## Tree visualizations often are more informative if we use more than an individual (H)OG
+
+# the trees can be more informative if one looks at additional complete OGs and not just single best additional matches
+# define the max number of additional OGs to include in the follow-up analyses
+# this is based on the best blast hits of the expanded OG in question;
+# the next based blast hit belonging to another OG will lead to include this OG in an addtional set
+# if set to e.g. 3 for each expanded OG we include the next three "closest" OGs
+# if there aren't any usable blast hits less than 3 will be added
+# set to 0 if you aren't interested in this (only the base OG which will be analyzed)
+add_OGs: 3
+
+
+# FDR cutoff for significance if differential gene expresssion analysis
+# e.g.: 0.05, 0.1,..
+DEG_FDR: 0.1

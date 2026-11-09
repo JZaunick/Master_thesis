@@ -1,0 +1,6 @@
+species	ploidy	pep_fasta	cDNA_fasta	gen_fasta	annotation	function
+Solanum_pennellii	2	FS/SPENNV200_longestiso.pep.fa		FS/GCF_001406875.1_SPENNV200_genomic.fna.gz	FS/GCF_001406875.1_SPENNV200_genomic.gff.gz	AHRD
+Solanum_lycopersicum	2	FS/Solanum_lycopersicum_longestiso.pep.fa		FS/Solanum_lycopersicum.SL3.0.dna.toplevel.fa.gz	FS/Solanum_lycopersicum.SL3.0.60.gff3.gz	AHRD
+Capsicum_annuum	2	FS/Capsicum_annuum_longestiso.pep.fa		FS/Capsicum_annuum.ASM51225v2.dna.toplevel.fa.gz	FS/Capsicum_annuum.ASM51225v2.60.gff3.gz	AHRD
+Solanum_tuberosum	2	FS/Stuberosum_longestiso.pep.fa		FS/Stuberosum_686_v6.1.fa.gz	FS/Stuberosum_686_v6.1.gene.gff3.gz	AHRD
+Lycium_barbarum	2	FS/Lbarbarum_longestiso.pep.fa				AHRD
