@@ -145,3 +145,35 @@ power_check <- reg_results %>%
   )
 
 print(power_check)
+
+
+## 7. Species-specific expansions
+## Same test, but the foreground is each species' OWN expansion set, examined
+## in that species' own expression data (Table tab:regulation-own).
+## Hypotheses: 1 = S. pennellii, 2 = S. tuberosum, 8 = S. lycopersicum,
+## 9 = C. annuum. Unlike section 5 there is no internal control, as the
+## foreground differs between species.
+
+own_expansions <- list(
+  Solanum_pennellii    = 1,
+  Solanum_tuberosum    = 2,
+  Solanum_lycopersicum = 8,
+  Capsicum_annuum      = 9
+) %>%
+  purrr::map(function(h) {
+    HOG_level_list[[paste0("hypothesis_", h)]] %>%
+      dplyr::filter(HOG %in% background, expansion == "yes") %>%
+      pull(HOG)
+  })
+
+reg_results_own <- tidyr::crossing(
+    sp       = names(own_expansions),
+    category = category_list
+  ) %>%
+  purrr::pmap_dfr(function(sp, category)
+    test_regulation(regulation_long, own_expansions[[sp]], sp, category))
+
+print(reg_results_own, n = Inf)
+
+write.csv(reg_results_own, row.names = FALSE,
+          file = file.path(outdir, "Table5_regulation_direction_ownExpansions.csv"))
