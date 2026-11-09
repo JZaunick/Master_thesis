@@ -95,7 +95,7 @@ full-length hits to consecutive, non-overlapping segments of the subject indicat
 fused genes.
 
 ```bash
-samtools faidx $STUB_PEP Soltu.DM.10G027680.1 > query.faa      # typical member
+samtools faidx $STUB_PEP Soltu.DM.10G027680.v6.1 > query.faa      # typical member
 samtools faidx $SLYC_PEP Solyc10g079710.1.1   > subject.faa    # overlong model
 
 blastp -query query.faa -subject subject.faa -evalue 1e-10 \
@@ -126,8 +126,8 @@ zcat "$1" | awk -F'\t' '$3=="gene" && ($9 !~ /biotype=/ || $9 ~ /biotype=protein
 }
 
 mkdir -p data
-flank $STUB_GFF "ID=Soltu.DM.10G027680;"   data/flank_ARR_B_Stub.tsv
-flank $STUB_GFF "ID=Soltu.DM.10G027810;"   data/flank_ARR_A_Stub.tsv
+flank $STUB_GFF "ID=Soltu.DM.10G027680.v6.1;"   data/flank_ARR_B_Stub.tsv
+flank $STUB_GFF "ID=Soltu.DM.10G027810.v6.1;"   data/flank_ARR_A_Stub.tsv
 flank $SPEN_GFF "ID=gene-LOC107032291;"    data/flank_ARR_B_Spen.tsv
 flank $SLYC_GFF "ID=gene:Solyc10g079595.1;" data/flank_ARR_A_Slyc.tsv
 # ... one call per copy and species
@@ -136,7 +136,7 @@ flank $SLYC_GFF "ID=gene:Solyc10g079595.1;" data/flank_ARR_A_Slyc.tsv
 The ID format differs between sources:
 - RefSeq: prefix `gene-`.
 - Ensembl: prefix `gene:`, and the tomato IDs carry a version suffix (`.1`, `.2`, `.3`).
-- Potato annotation: no prefix.
+- Potato annotation (Phytozome): no prefix, but the suffix `.v6.1` (also in the proteome headers).
 
 Including the trailing `;` prevents partial matches, so the version must be written
 out. Look the ID up first, for example with
@@ -211,7 +211,7 @@ samtools faidx SL3.0.fa
 samtools faidx SL3.0.fa 10:61300000-61370000 > interval.fa
 
 # queries: the family members of the species that carry the copy
-samtools faidx $STUB_PEP Soltu.DM.10G027680.1 >  query_B.faa
+samtools faidx $STUB_PEP Soltu.DM.10G027680.v6.1 >  query_B.faa
 samtools faidx $SPEN_PEP LOC107032291         >> query_B.faa
 
 tblastn -query query_B.faa -subject interval.fa -evalue 1e-5 \

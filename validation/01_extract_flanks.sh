@@ -27,7 +27,7 @@ CANN_GFF=$FS/Capsicum_annuum.ASM51225v2.60.gff3.gz          # Ensembl Plants
 STUB_GFF=$FS/Stuberosum_686_v6.1.gene.gff3.gz              # Phytozome,      IDs "Soltu.DM..."
 
 # ---- flank(): $1 = GFF(.gz), $2 = exact "ID=...;" string, $3 = output -----
-# Protein-coding filter: GFFs without a biotype attribute (Spud DB) pass all
+# Protein-coding filter: GFFs without a biotype attribute (Phytozome) pass all
 # genes; RefSeq/Ensembl GFFs keep only biotype=protein_coding.
 # The trailing ";" in $2 prevents partial matches (Solyc10g079595.1 vs .10),
 # so the exact ID including any version suffix must be given. Look it up
@@ -59,27 +59,27 @@ mkdir -p data
 
 # N0.HOG0006681 -- type-A response regulator (ARR9), Section 3.7.2
 # lineage A
-flank $STUB_GFF "ID=Soltu.DM.10G027810;"     data/flank_ARR_A_Stub.tsv
-flank $SPEN_GFF "ID=<ID>;"                   data/flank_ARR_A_Spen.tsv
-flank $LBAR_GFF "ID=<ID>;"                   data/flank_ARR_A_Lbar.tsv
-flank $SLYC_GFF "ID=gene:Solyc10g079595.1;"  data/flank_ARR_A_Slyc.tsv
-flank $CANN_GFF "ID=<ID>;"                   data/flank_ARR_A_Cann.tsv
+flank $STUB_GFF "ID=Soltu.DM.10G027810.v6.1;"  data/flank_ARR_A_Stub.tsv
+flank $SPEN_GFF "ID=gene-LOC107032088;"        data/flank_ARR_A_Spen.tsv
+flank $LBAR_GFF "ID=gene-LOC132607450;"        data/flank_ARR_A_Lbar.tsv
+flank $SLYC_GFF "ID=gene:Solyc10g079595.1;"    data/flank_ARR_A_Slyc.tsv
+flank $CANN_GFF "ID=gene:T459_26557;"          data/flank_ARR_A_Cann.tsv
 # lineage B (tomato copy concealed in the fused model Solyc10g079710)
-flank $STUB_GFF "ID=Soltu.DM.10G027680;"     data/flank_ARR_B_Stub.tsv
-flank $SPEN_GFF "ID=gene-LOC107032291;"      data/flank_ARR_B_Spen.tsv
-flank $LBAR_GFF "ID=<ID>;"                   data/flank_ARR_B_Lbar.tsv
+flank $STUB_GFF "ID=Soltu.DM.10G027680.v6.1;"  data/flank_ARR_B_Stub.tsv
+flank $SPEN_GFF "ID=gene-LOC107032291;"        data/flank_ARR_B_Spen.tsv
+flank $LBAR_GFF "ID=gene-LOC132607438;"        data/flank_ARR_B_Lbar.tsv
 
-# <family/HOG>, locus L04
-flank $STUB_GFF "ID=<ID>;"                   data/flank_L04_Stub.tsv
-flank $SPEN_GFF "ID=<ID>;"                   data/flank_L04_Spen.tsv
-flank $LBAR_GFF "ID=<ID>;"                   data/flank_L04_Lbar.tsv
-flank $SLYC_GFF "ID=<ID>;"                   data/flank_L04_Slyc.tsv
+# locus L04 (chromosome 4)
+flank $STUB_GFF "ID=Soltu.DM.04G032430.v6.1;"  data/flank_L04_Stub.tsv
+flank $SPEN_GFF "ID=gene-LOC107017123;"        data/flank_L04_Spen.tsv
+flank $LBAR_GFF "ID=gene-LOC132623188;"        data/flank_L04_Lbar.tsv
+flank $SLYC_GFF "ID=gene:Solyc04g077690.2;"    data/flank_L04_Slyc.tsv
 
-# N0.HOG0000291 -- SOFL, locus L12
-flank $STUB_GFF "ID=<ID>;"                   data/flank_L12_Stub.tsv
-flank $SPEN_GFF "ID=<ID>;"                   data/flank_L12_Spen.tsv
-flank $LBAR_GFF "ID=<ID>;"                   data/flank_L12_Lbar.tsv
-flank $CANN_GFF "ID=<ID>;"                   data/flank_L12_Cann.tsv
+# N0.HOG0000291 -- SOFL, locus L12 (chromosome 12)
+flank $STUB_GFF "ID=Soltu.DM.12G006250.v6.1;"  data/flank_L12_Stub.tsv
+flank $SPEN_GFF "ID=gene-LOC107006645;"        data/flank_L12_Spen.tsv
+flank $LBAR_GFF "ID=gene-LOC132604059;"        data/flank_L12_Lbar.tsv
+flank $CANN_GFF "ID=gene:T459_30820;"          data/flank_L12_Cann.tsv
 
 # N0.HOG0003220 -- XTH, potato copy on chromosome 7
-flank $STUB_GFF "ID=<ID>;"                   data/flank_XTH_Stub7.tsv
+flank $STUB_GFF "ID=Soltu.DM.07G021990.v6.1;"  data/flank_XTH_Stub7.tsv

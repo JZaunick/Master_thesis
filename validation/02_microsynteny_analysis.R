@@ -114,7 +114,7 @@ syntenic_genes(fl_arr, "B_Stub", c("Solanum_lycopersicum", "Capsicum_annuum")) %
 # (validation protocol, step 3). The missing lineage-B copy turned out to
 # be concealed in the fused gene model Solyc10g079710.
 
-# properties of the tomato model and of the S. pennellii members
+# properties of the fused tomato model and of the C. annuum member (T459_ = pepper)
 HOG_DE.a2tea %>% filter(gene %in% c("T459_26538", "Solyc10g079710.2")) %>%
   select(species, gene, HOG, baseMean, log2FoldChange, padj)
 
@@ -140,7 +140,7 @@ syntenic_genes(fl_xth, "Stub7", "Solanum_lycopersicum") %>% print(n = Inf)
 # ======================================================================
 len <- sapply(A2TEA.fa.seqs, function(s) nchar(paste(unlist(s), collapse = "")))
 
-len[c("T459_26538", "T459_26557", "Solyc10g079710.2")]   # ARR9: fused tomato model vs. S. pennellii members
+len[c("T459_26538", "T459_26557", "Solyc10g079710.2")]   # ARR9: fused tomato model vs. C. annuum members
 
 # all members of one family, sorted by length
 ids <- names(HYPOTHESES.a2tea$hypothesis_4@expanded_OGs[["N0.HOG0005673"]]@add_OG_analysis[[1]]@msa)
